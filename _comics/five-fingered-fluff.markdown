@@ -20,4 +20,4 @@ numberpages:
  
 ---
 
-Desolación y tristeza... por no quedar con este cómic en Ink Brick.
+Presentado, pero no aceptado, para Ink Brick Nº5
