@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="comic" itemscope itemtype="http://schema.org/BlogPosting" style="background-color:{{ page.background }}">
+
+  <header class="comic-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+
+  <div class="comic-content" itemprop="articleBody">
+   
+	<div class="comic-images" style="max-width:{{ page.maxwidth }}px;">
+	{% for comicpage in page.numberpages %}
+			<p><img title="{{ site.title }} comic - {{ page.title }} - {{ comicpage }}" alt="{{ site.title }} - {{ page.title }} - {{ comicpage }}" src="{{ site.baseurl }}/img/{{page.slug}}/{{comicpage}}.jpg"></p>
+	{% endfor %}
+	</div>
+
+	
+	<div class="text-content">
+		{{ content }}
+	</div>
+
+  </div>
+
+</article>
