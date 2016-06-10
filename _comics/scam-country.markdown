@@ -16,6 +16,7 @@ numberpages:
  - sc_02
  - sc_03
  - sc_04
+ - sc_05
  
 ---
 
