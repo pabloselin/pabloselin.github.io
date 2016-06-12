@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="prints">
+  <div class="presentation">
+    <h1>Comprar comics</h1>
+  </div>
+  <ul class="prints-list">
+    {% for print in site.data.prints %}
+      <li>
+            <h4>{{ print.name }}</h4>
+            <p>Precio: {{ print.priceUS }} USD / {{ print.priceCL}} CLP</p>
+            <p>{% include paypal_button.html %}</p>
+            <p>Detalles: {{ print.details }}</p>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+
+<p style="clear:both;"></p>
+
+</div>
