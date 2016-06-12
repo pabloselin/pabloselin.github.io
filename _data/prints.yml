@@ -1,18 +1,21 @@
 - name: Abeja Eléctrica Dorada
   priceUS: 10
   priceCL: 5000
-  img: abeja
-  details: Impresión color 14 páginas
+  img: print_aed
+  details: Color 14 pp.
   paypalBtnID: YKYPBLLLTCUCC
 
 - name: 4 Letter Permutation
   priceUS: 10
   priceCL: 5000
-  img: 4letter
-  details: Impresión color 24 páginas
+  img: print_4let
+  details: Color 24 pp.
+  paypalBtnID: DJ4RG6Q52EPE2
 
 - name: Strange Outpost
   priceUS: 6
   priceCL: 3000
-  img: strangeoutpost
-  details: Impresión BN 16 páginas
+  img: print_strangeoutpost
+  details: B/W 16 pp.
+  paypalBtnID: UKM5SEZY32JRN
+

@@ -1,18 +1,20 @@
 ---
-layout: default
+layout: prints
 ---
 
 <div class="prints">
-  <div class="presentation">
-    <h1>Comprar comics</h1>
-  </div>
+
   <ul class="prints-list">
     {% for print in site.data.prints %}
-      <li>
+      <li class="print-item">
+            
+            <img src="{{ site.baseurl }}/img/{{ print.img }}.jpg" alt="{{ print.name }}">
+
             <h4>{{ print.name }}</h4>
-            <p>Precio: {{ print.priceUS }} USD / {{ print.priceCL}} CLP</p>
+            <p><span class="label">Precio:</span> {{ print.priceUS }} USD / {{ print.priceCL}} CLP</p>
+            <p><span class="label">Detalles:</span> {{ print.details }}</p>
+            <p>&nbsp;</p>
             <p>{% include paypal_button.html %}</p>
-            <p>Detalles: {{ print.details }}</p>
 
       </li>
     {% endfor %}
@@ -21,4 +23,13 @@ layout: default
 
 <p style="clear:both;"></p>
 
+<div class="infobuy">
+  <h4>INFO</h4>
+  <ul>
+    <li>Shipping included to anywhere in the world.</li>
+    <li>Envío incluído a cualquier parte del mundo.</li>
+    <li>Si vives en Chile me puedes pagar por transferencia bancaria o en persona.</li>
+    <li>Si vives en Santiago podemos coordinar y quedar en algún lado.</li>
+  </ul>
+</div>
 </div>

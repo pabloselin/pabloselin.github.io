@@ -1,0 +1,43 @@
+body.prints {
+	background-color:#C7F0E4;
+}
+
+.print-item {
+	list-style:none;
+	margin-bottom:12px;
+	padding-bottom:12px;
+	height:240px;
+}
+
+.print-item img {
+	float:left;
+	margin-right:12px;
+	max-width:140px;
+	height:auto;
+	transform:rotate(-7deg);
+	box-shadow: 0 0 6px #333;
+}
+
+.print-item p {
+	margin-bottom:0;
+}
+
+.print-item h4 {
+	font-weight:normal;
+	color:#FFA045;
+	text-transform:uppercase;
+	letter-spacing:4px;
+}
+
+.print-item span.label {
+	font-weight:bold;
+}
+
+.infobuy {
+	padding:12px;
+	background-color: darken(#C7F0E4, 20%);
+}
+
+.infobuy h4 {
+	font-weight:bold;
+}
