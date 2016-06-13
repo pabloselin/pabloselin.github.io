@@ -20,6 +20,14 @@ layout: default
 		{{ content }}
 	</div>
 
+	{% if page.buylink %}
+		
+		<p>
+			<a class="buylink" href="{{ prepend: site.baseurl | prepend: site.url }}/prints.html#{{ page.buylink }}">Comprar este comic <br> Buy this comic</a>
+		</p>
+
+	{% endif %}
+
   </div>
 
 </article>

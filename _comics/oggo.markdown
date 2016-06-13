@@ -5,6 +5,7 @@ date:   2015-06-07 19:15:02 -0300
 slug: oggo
 background: "#000"
 maxwidth: 700
+buylink: print_4let
 
 categories:
  - comic

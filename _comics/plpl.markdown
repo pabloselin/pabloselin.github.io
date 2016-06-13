@@ -6,6 +6,7 @@ slug: plpl
 background: "#CBEB4B"
 foreground: "#333"
 maxwidth: 500
+buylink: print_4let
 
 categories:
  - comic

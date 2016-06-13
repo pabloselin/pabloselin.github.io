@@ -6,6 +6,7 @@ slug: strangeoutpost
 background: "#E8171C"
 foreground: "#333"
 maxwidth: 800
+buylink: print_strangeoutpost
 
 categories:
  - comic

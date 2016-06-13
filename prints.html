@@ -6,7 +6,7 @@ layout: prints
 
   <ul class="prints-list">
     {% for print in site.data.prints %}
-      <li class="print-item">
+      <li class="print-item" id="{{ print.img }}">
             
             <img src="{{ site.baseurl }}/img/{{ print.img }}.jpg" alt="{{ print.name }}">
 

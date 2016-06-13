@@ -5,6 +5,7 @@ date:   2015-09-07 19:15:02 -0300
 slug: aed 
 background: "#000"
 maxwidth: 700
+buylink: print_aed
 
 categories:
  - comic
