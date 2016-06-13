@@ -18,6 +18,18 @@ body.prints {
 	box-shadow: 0 0 6px #333;
 }
 
+@media screen and (max-width:480px) {
+
+	.print-item img {
+		float:none;
+		margin-bottom:24px;
+	}
+
+	.print-item {
+		height:auto;
+	}
+}
+
 .print-item p {
 	margin-bottom:0;
 }
