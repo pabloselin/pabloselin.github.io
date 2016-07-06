@@ -8,6 +8,7 @@
 # Site settings
 title: Pablo Selín | Comics
 email: pabloselin@gmail.com
+instagram: donhilo
 description: > # this means to ignore newlines until "baseurl:"
   Comics y desolación
 baseurl: "" # the subpath of your site, e.g. /blog
