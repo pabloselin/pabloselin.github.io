@@ -1,11 +1,17 @@
-- name: Comics Workbook
-  url: http://comicsworkbook.com
+- name: Sacapunta
+  url: http://sacapunta.cl
 
 - name: Parias Comix
   url: http://pariascomix.tumblr.com
 
+- name: Comics Workbook
+  url: http://comicsworkbook.com
+
 - name: Alt-Comix
   url: http://altcomix.tumblr.com
+
+- name: Ink Brick
+  url: http://inkbrick.com
 
 - name: Mega Crap
   url: http://themegacrap.tumblr.com

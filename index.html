@@ -4,7 +4,7 @@ layout: home
 
 <div class="home">
   <ul class="comics-list" data-masonry='{ "itemSelector": "li" }'>
-    {% for comic in site.comics %}
+    {% for comic in site.comics reversed %}
       <li>
 
         <h2>

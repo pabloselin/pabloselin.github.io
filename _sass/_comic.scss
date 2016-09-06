@@ -11,9 +11,12 @@
 	 padding:0;
 	 float:left;
 	 transition:all linear 0.3s;
-	 animation: dance 0.5s infinite;
 	 box-shadow: 0 0 6px #333;
 	 text-align:center;
+}
+
+.comics-list li:first-of-type {
+	animation: dance 0.5s infinite;
 }
 
 .site-footer img {
