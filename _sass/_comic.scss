@@ -15,7 +15,11 @@
 	 text-align:center;
 }
 
-.comics-list li:first-of-type {
+.comics-list li:first-of-type,
+.comics-list li:nth-of-type(2),
+.comics-list li:nth-of-type(3),
+.comics-list li:nth-of-type(4)
+ {
 	animation: dance 0.5s infinite;
 }
 

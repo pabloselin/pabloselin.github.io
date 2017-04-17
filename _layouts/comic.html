@@ -9,7 +9,7 @@ layout: default
 
   <div class="comic-content" itemprop="articleBody">
    
-	<div class="comic-images" style="max-width:{{ page.maxwidth }}px;">
+	<div class="comic-images" style="max-width:{{ page.maxwidth }}px">
 	{% for comicpage in page.numberpages %}
 			<p><img title="{{ site.title }} comic - {{ page.title }} - {{ comicpage }}" alt="{{ site.title }} - {{ page.title }} - {{ comicpage }}" src="{{ site.baseurl }}/img/{{page.slug}}/{{comicpage}}.jpg"></p>
 	{% endfor %}

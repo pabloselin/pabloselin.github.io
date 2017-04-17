@@ -3,9 +3,19 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    background-color:#000;
+    background-color:#fff;
+    padding:12px;
+    text-align:center;
     // Positioning context for the mobile navigation icon
     position: relative;
+    h1 {
+        color:#333;
+        font-size:12px;
+        font-weight:normal;
+        letter-spacing:4px;
+        text-transform:uppercase;
+        margin-bottom:0;
+    }
 }
 
 .site-header span {
