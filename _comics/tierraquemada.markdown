@@ -16,7 +16,6 @@ numberpages:
  - "tierraquemada-03"
  - "tierraquemada-04"
  - "tierraquemada-05"
- - "tierraquemada-06"
  
 ---
 
