@@ -1,21 +1,21 @@
-- name: Abeja Eléctrica Dorada
-  priceUS: 10
-  priceCL: 5000
-  img: print_aed
-  details: Color 14 pp.
-  paypalBtnID: YKYPBLLLTCUCC
+# - name: Abeja Eléctrica Dorada
+#   priceUS: 10
+#   priceCL: 5000
+#   img: print_aed
+#   details: Color 14 pp.
+#   paypalBtnID: YKYPBLLLTCUCC
 
-- name: 4 Letter Permutation
-  priceUS: 10
-  priceCL: 5000
-  img: print_4let
-  details: Color 24 pp. Incluye OGGO - PLPL - Landscape Boy
-  paypalBtnID: DJ4RG6Q52EPE2
+# - name: 4 Letter Permutation
+#   priceUS: 10
+#   priceCL: 5000
+#   img: print_4let
+#   details: Color 24 pp. Incluye OGGO - PLPL - Landscape Boy
+#   paypalBtnID: DJ4RG6Q52EPE2
 
-- name: Strange Outpost
-  priceUS: 6
-  priceCL: 3000
-  img: print_strangeoutpost
-  details: B/W 16 pp.
-  paypalBtnID: UKM5SEZY32JRN
+# - name: Strange Outpost
+#   priceUS: 6
+#   priceCL: 3000
+#   img: print_strangeoutpost
+#   details: B/W 16 pp.
+#   paypalBtnID: UKM5SEZY32JRN
 
