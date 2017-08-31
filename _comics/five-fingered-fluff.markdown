@@ -1,6 +1,6 @@
 ---
 layout: comic
-title:  "Five Fingered Fluff"
+title:  "Pelusa de cinco dedos"
 date:   2016-05-07 19:15:02 -0300
 slug: ffff 
 background: "#FFF6ED"
@@ -20,4 +20,3 @@ numberpages:
  
 ---
 
-Presentado, pero no aceptado, para Ink Brick Nº5

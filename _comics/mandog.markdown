@@ -20,4 +20,4 @@ numberpages:
  - "mandog_06_web"
 ---
 
-Cómic del 2013, primeros intentos de hacer alguna historia.
+man-DOG

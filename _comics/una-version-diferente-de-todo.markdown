@@ -30,5 +30,3 @@ numberpages:
  - "pag15"
  
 ---
-
-Hecho para el curso por correspondencia con Frank Santoro.

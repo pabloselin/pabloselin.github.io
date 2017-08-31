@@ -16,5 +16,3 @@ numberpages:
  - megacrap_03
  
 ---
-
-Colaboración con el comic online multiautoral MEGA CRAP.
