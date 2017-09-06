@@ -3,6 +3,11 @@ layout: home
 ---
 
 <div class="home">
+  <ul>
+      {% for memory in site.memories reversed %}
+      <li>memory.title</li>
+      {% endfor %}
+  </ul>
   <ul class="comics-list" data-masonry='{ "itemSelector": "li" }'>
     {% for comic in site.comics reversed %}
       <li>

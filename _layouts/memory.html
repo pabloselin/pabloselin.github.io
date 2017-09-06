@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="memory" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="memory-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+
+  <div class="memory-content" itemprop="articleBody">
+   
+   <div class="panel">
+       <div class="panel-image">
+           <img src="{{page.image}}" alt="{{page.title}}">
+       </div>
+       <div class="panel-data">
+           <div class="date"><span class="label">fecha:</span> {{page.date}}</div>
+           <div class="place"><span class="label">lugar:</span> {{page.place}}</div>
+           <div class="theme"><span class="label">eje:</span> {{page.theme}}</div>
+           <div class="persons"><span class="label">personas:</span> {{page.persons}}</div>
+       </div>
+   </div>
+	
+  </div>
+
+</article>

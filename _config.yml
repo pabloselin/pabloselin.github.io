@@ -18,6 +18,9 @@ collections:
    output: true
    values:
     layout: comic
-
+ memories:
+    output: true
+    values:
+      layout: memory
 # Build settings
 markdown: kramdown
