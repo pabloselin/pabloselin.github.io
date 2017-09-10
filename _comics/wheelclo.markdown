@@ -3,7 +3,7 @@ layout: comic
 title:  "WHEELCLO"
 date:   2017-08-07 19:15:02 -0300
 slug: wheelclo 
-background: "#FFF6ED"
+background: "#FFFFFF"
 foreground: "#DB0030"
 
 categories:

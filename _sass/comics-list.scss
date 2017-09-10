@@ -1,0 +1,28 @@
+.comic-list-item {
+    margin-bottom:24px;
+    overflow:hidden;
+    .date {
+        font-size:10px;
+        color:#ccc;
+    }
+    img {
+        float:left;
+        width:90px;
+        height:90px;
+        margin-right:6px;
+        border:1px solid #333;
+    }
+}
+
+h2.comic-title {
+    font-size:48px;
+    margin-bottom:0;
+    line-height:48px;
+    a {
+        color:#333;
+        &:hover {
+            text-decoration:none;
+            color:#F09C29;
+        }
+    }
+}

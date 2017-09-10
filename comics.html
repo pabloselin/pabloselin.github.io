@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>Cómics</h1>
+
+{% for comic in site.comics reversed %}
+    <div class="comic-list-item">
+    <a href="{{comic.url}}">
+    <img src="{{site.baseurl}}/img/{{comic.slug}}.jpg" alt="{{comic.title}}">
+    </a>
+    <span class="date">{{comic.date | date: '%Y'}}</span>
+    <h2 class="comic-title"><a href="{{comic.url}}">{{comic.title}}</a></h2>
+    </div>
+{% endfor %}

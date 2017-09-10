@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: memory_layout
 ---
 <article class="memory" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -11,13 +11,25 @@ layout: default
    
    <div class="panel">
        <div class="panel-image">
-           <img src="{{page.image}}" alt="{{page.title}}">
+           <img src="{{ site.baseurl }}/mem_imgs/{{page.slug}}.jpg" alt="{{page.title}}">
        </div>
        <div class="panel-data">
            <div class="date"><span class="label">fecha:</span> {{page.date}}</div>
-           <div class="place"><span class="label">lugar:</span> {{page.place}}</div>
-           <div class="theme"><span class="label">eje:</span> {{page.theme}}</div>
-           <div class="persons"><span class="label">personas:</span> {{page.persons}}</div>
+           <div class="place"><span class="label">lugar:</span> 
+                {% for place in page.places %}
+                    <span class="tag">{{place}}</span>
+                {% endfor %} 
+            </div>
+           <div class="theme"><span class="label">eje:</span> 
+                {% for theme in page.themes %}
+                    <span class="tag">{{theme}}</span>
+                {% endfor %}    
+            </div>
+           <div class="persons"><span class="label">personas:</span> 
+            {% for person in page.persons %}
+                <span class="tag">{{person}}</span>
+            {% endfor %}
+            </div>
        </div>
    </div>
 	

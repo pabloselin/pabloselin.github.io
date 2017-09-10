@@ -1,7 +1,13 @@
-<header class="site-header">
+<header class="site-header {% if page.url == '/'' %} animated fadeInDown {% endif %}">
     <a href="{{site.url}}">
-        <img src="{{site.url}}/img/hj.png" alt="Pablo Selín - Comics">
-        <h1>Pablo Selín - Comics</h1>
+        <img class="site-logo" width="40" src="{{site.url}}/site_imgs/ps_icon.png" alt="">
+        <h1>Pablo Selín</h1>
     </a>
+    <nav class="main-nav">
+        <ul>
+            <li {% if page.url == '/comics.html' %} class="active" {% endif %}><a href="{{site.url}}/comics.html">Comics</a></li>
+            <li {% if page.url == '/dibujos.html' %} class="active" {% endif %}><a href="{{site.url}}/dibujos.html">Dibujos</a></li>
+            <li {% if page.url == '/datos.html' %} class="active" {% endif %}><a href="{{site.url}}/datos.html">datos</a></li>
+        </ul>
+    </nav>
 </header>
-<div class="apariciones"> <p> <span class="fecha">7 y 8 de Octubre</span> - <strong>Dibujona</strong> - Antofagasta, Chile </p> </div>

@@ -22,5 +22,9 @@ collections:
     output: true
     values:
       layout: memory
+ drawings:
+    output: true
+    values:
+      layout: drawing
 # Build settings
 markdown: kramdown

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<h1>Datos</h1>
+
+<div class="twocols">
+
+        <p>Pablo Selín Carrasco Armijo</p>
+        <p>n. 1981</p>
+        <p>Vive en Melipilla, Chile</p>
+
+        <p>Instagram: <a href="https://instagram.com/donhilo/">@donhilo</a></p>
+        <p>Para encargos, ideas y colaboraciones puedes escribirme a <a href="mailto:pabloselin@gmail.com">pabloselin@gmail.com</a></p>
+
+</div>
+
+<h2>Antologías</h2>
+
+<ul>
+    {% for antology in site.data.antologies %}
+    <li>{{antology.year}} - {{antology.name}}</li>
+    {% endfor %}
+</ul>
+
+<h2>Cómics y libros autoeditados</h2>
+
+<ul>
+    {% for zine in site.data.zines %}
+    <li>{{zine.year}} - {{zine.name}}</li>
+    {% endfor %}
+</ul>
+
+<h2>Publicaciones online</h2>
+
+<ul>
+    {% for onlinepub in site.data.onlinepubs %}
+    <li>{{onlinepub.year}} - {{onlinepub.name}}</li>
+    {% endfor %}
+</ul>
+
+<h2>Concursos, becas, etc.</h2>
+<ul>
+    {% for concurso in site.data.concursos %}
+    <li>{{concurso.year}} - {{concurso.name}}</li>
+    {% endfor %}
+</ul>

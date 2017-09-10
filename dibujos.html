@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h1>Dibujos</h1>
+
+<div class="section group">
+     
+{% for drawing in site.drawings reversed %}
+    <div class="drawing-list-item col span_1_of_6">
+    <a href="{{drawing.url}}">
+    <img src="{{site.baseurl}}/dib_imgs/{{drawing.slug}}_small.jpg" alt="{{comic.title}}">
+    </a>
+    </div>
+{% endfor %}
+
+</div>
