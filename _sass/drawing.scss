@@ -12,3 +12,10 @@
 .drawing-list-item img {
     border:1px solid #ccc;
 }
+
+@media screen and (max-width:$on-palm) {
+    .drawing-list-item {
+        text-align:center;
+        margin-bottom:24px;
+    }
+}

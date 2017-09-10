@@ -61,3 +61,16 @@ header.site-header {
         }
     }
 }
+
+@media screen and (max-width:$on-palm) {
+    header.site-header {
+        nav.main-nav {
+            float: none;
+            clear: both;
+            padding-top:12px;
+            ul li.active a {
+                border-top:0;
+            }
+        }
+    }
+}

@@ -5,13 +5,14 @@
     margin: 0px;
     display:flex;
     align-items:center;
+    flex-wrap:wrap;
 }
 
 /*  COLUMN SETUP  */
 .col {
 	display: block;
 	float:left;
-	margin: 1% 0 1% 1.6%;
+    margin: 1% 0 1% 1.6%;
 }
 .col:first-child { margin-left: 0; }
 

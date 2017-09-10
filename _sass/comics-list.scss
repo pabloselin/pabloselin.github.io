@@ -26,3 +26,16 @@ h2.comic-title {
         }
     }
 }
+
+@media screen and (max-width:$on-palm) {
+    .comic-list-item {
+        img {
+            width:60px;
+            height:60px;
+        }
+        h2.comic-title {
+            font-size:22px;
+            line-height:22px;
+        }
+    }
+}
