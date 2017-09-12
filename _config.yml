@@ -18,10 +18,10 @@ collections:
    output: true
    values:
     layout: comic
- memories:
+ dailies:
     output: true
     values:
-      layout: memory
+      layout: serie
  drawings:
     output: true
     values:

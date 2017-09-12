@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>TXEXEX</h1>
+
+{% for comic in site.dailies %}
+<div class="daily-list-item">
+<a href="{{comic.url}}">
+<img src="{{site.baseurl}}/mem_imgs/{{comic.slug}}.jpg" alt="{{comic.date}}">
+</a>
+</div>
+{% endfor %}
