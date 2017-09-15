@@ -85,6 +85,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
     font-family: $headings-font-family;
     color: $brand-color;
+    @media screen and (max-width:$on-palm) {
+        text-shadow:0 1px 1px #555;
+    }
 }
 
 
