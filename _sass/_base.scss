@@ -225,3 +225,10 @@ ul {
         float:left;
     }
 }
+
+.page-content {
+    clear:both;
+    @media screen and (max-width:$on-palm) {
+        padding-top:24px;
+    }
+}
