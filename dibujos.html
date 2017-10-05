@@ -9,7 +9,7 @@ layout: default
 {% for drawing in site.drawings reversed %}
     <div class="drawing-list-item col span_1_of_6">
     <a href="{{drawing.url}}">
-    <img src="{{site.baseurl}}/dib_imgs/{{drawing.slug}}_small.jpg" alt="{{comic.title}}">
+    <img src="{{site.baseurl}}/dib_imgs/{{drawing.slug}}_small.{{drawing.format}}" alt="{{comic.title}}">
     </a>
     </div>
 {% endfor %}
