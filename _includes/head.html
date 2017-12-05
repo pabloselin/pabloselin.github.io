@@ -18,4 +18,12 @@
     {% include analytics.html %}
   {% endif %}
 
+  <meta property="og:description" content="{{ page.title }} -  {{ site.title }} ">
+  
+  {% if page.slug %}
+
+  <meta content="{{site.baseurl}}/img/{{page.slug}}.jpg" property="og:image">
+  
+
+  {% endif %}
 </head>
