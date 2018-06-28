@@ -2,20 +2,29 @@
 layout: default
 ---
 
-<h1>Datos</h1>
+<h1>Data</h1>
 
 <div class="twocols">
 
         <p>Pablo Selín Carrasco Armijo</p>
-        <p>n. 1981</p>
-        <p>Vive en Melipilla, Chile</p>
+        <p>b. 1981</p>
+        <p>Lives in Melipilla, Chile</p>
 
         <p>Instagram: <a href="https://instagram.com/donhilo/">@donhilo</a></p>
-        <p>Para encargos, ideas y colaboraciones puedes escribirme a <a href="mailto:pabloselin@gmail.com">pabloselin@gmail.com</a></p>
+        <p>Deals and ideas write me to <a href="mailto:pabloselin@gmail.com">pabloselin@gmail.com</a></p>
 
 </div>
 
-<h2>Antologías</h2>
+<h2>Selected exhibitions</h2>
+(From 2004 to 2011 I worked the art-world with the latin-american collective Incas of Emergency, you can check more of it in <a href="https://www.youtube.com/user/devilspepegrillo/videos" target="_blank">their youtube channel.</a>)
+
+<ul>
+     {% for expo in site.data.expos %}
+    <li>{{expo.year}} - {{expo.name}}. {{expo.place}}</li>
+    {% endfor %}
+</ul>
+
+<h2>Anthologies</h2>
 
 <ul>
     {% for antology in site.data.antologies %}
@@ -23,7 +32,7 @@ layout: default
     {% endfor %}
 </ul>
 
-<h2>Cómics y libros autoeditados</h2>
+<h2>Self published stuff</h2>
 
 <ul>
     {% for zine in site.data.zines %}
@@ -31,7 +40,7 @@ layout: default
     {% endfor %}
 </ul>
 
-<h2>Publicaciones online</h2>
+<h2>Online publications</h2>
 
 <ul>
     {% for onlinepub in site.data.onlinepubs %}
@@ -39,9 +48,10 @@ layout: default
     {% endfor %}
 </ul>
 
-<h2>Concursos, becas, etc.</h2>
+<h2>Grants, etc.</h2>
 <ul>
     {% for concurso in site.data.concursos %}
     <li>{{concurso.year}} - {{concurso.name}}</li>
     {% endfor %}
 </ul>
+
