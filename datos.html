@@ -10,13 +10,14 @@ layout: default
         <p>b. 1981</p>
         <p>Lives in Melipilla, Chile</p>
 
+        <p>Download PDF portfolio <a href="./pdf/pabloselin_portfolio.pdf">(english)</a> <a href="./pdf/pabloselin_portafolio.pdf">(español)</a></p>
         <p>Instagram: <a href="https://instagram.com/donhilo/">@donhilo</a></p>
         <p>Deals and ideas write me to <a href="mailto:pabloselin@gmail.com">pabloselin@gmail.com</a></p>
 
 </div>
 
 <h2>Selected exhibitions</h2>
-(From 2004 to 2011 I worked the art-world with the latin-american collective Incas of Emergency, you can check more of it in <a href="https://www.youtube.com/user/devilspepegrillo/videos" target="_blank">their youtube channel.</a>)
+(Note: Between 2004 - 2011 I worked in the art-world with the latin-american collective Incas of Emergency, you can check more of it in <a href="https://www.youtube.com/user/devilspepegrillo/videos" target="_blank">their youtube channel.</a>)
 
 <ul>
      {% for expo in site.data.expos %}
@@ -47,6 +48,14 @@ layout: default
     <li>{{onlinepub.year}} - {{onlinepub.name}}</li>
     {% endfor %}
 </ul>
+
+<h2>Video Games</h2>
+<ul>
+     {% for videogame in site.data.videogames %}
+     <li>{{videogame.year}} - {{videogame.name}} <br/> <a href="{{videogame.link}}">Link</a></li>
+     {% endfor %}
+</ul>
+
 
 <h2>Grants, etc.</h2>
 <ul>
