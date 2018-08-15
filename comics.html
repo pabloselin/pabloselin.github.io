@@ -4,14 +4,6 @@ layout: default
 
 <h1>Cómics</h1>
 
-    <div class="comic-list-item animated fadeInDown">
-    <a href="{{site.url}}/series.html">
-        <img src="{{site.baseurl}}/img/txexex_mini.png" alt="{{comic.title}}">
-    </a>
-    <span class="date">Serie en curso</span>
-    <h2 class="comic-title"><a href="{{site.url}}/series.html">TXEXEX</a></h2>
-    </div>
-
 {% for comic in site.comics reversed %}
     <div class="comic-list-item animated fadeInDown">
     <a href="{{comic.url}}">
