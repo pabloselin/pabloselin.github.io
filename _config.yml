@@ -18,10 +18,6 @@ collections:
    output: true
    values:
     layout: comic
- dailies:
-    output: true
-    values:
-      layout: serie
  drawings:
     output: true
     values:

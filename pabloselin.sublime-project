@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/donhilo/Escritorio/3DBookShowcase"
 		}
 	]
 }
