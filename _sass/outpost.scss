@@ -400,3 +400,28 @@ div.infozone {
 .no-js .bk-info button {
   display: none;
 }
+
+/* Banner */
+
+.banner_desktop {
+  margin-bottom: 24px;
+  max-width: 800px;
+  height: auto;
+}
+
+.banner_mobile {
+  display:none;
+}
+
+@media screen and (max-width: 768px) {
+  .banner_desktop {
+    display: none;
+  }
+
+  .banner_mobile {
+    display: block;
+    margin-bottom: 24px;
+    max-width: 100%;
+    height: auto;
+  }
+}
