@@ -21,12 +21,17 @@
     {% include analytics.html %}
   {% endif %}
 
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.description }} - {{ page.title }}">
+  {% else %}
   <meta property="og:description" content="{{ page.title }} -  {{ site.title }} ">
-  
+  {% endif %}
   {% if page.slug %}
 
   <meta content="{{site.url}}/img/{{page.slug}}.jpg" property="og:image">
   
 
   {% endif %}
+
+
 </head>
