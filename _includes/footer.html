@@ -1,10 +1,16 @@
 <footer class="site-footer">
 
 </footer>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="{{ site.url }}/js/3dbook.js"></script>
 <script>
-        var trigger = document.getElementById('trigger-nav');
-        var menu = document.getElementById('mobile-menu')
-        trigger.addEventListener('click', function(event) {
-          menu.classList.toggle('active');
-        });
+	var trigger = document.getElementById('trigger-nav');
+	var menu = document.getElementById('mobile-menu');
+	var libro = document.getElementsByClassName('lib-wrap');
+	trigger.addEventListener('click', function(event) {
+		menu.classList.toggle('active');
+	});
+	$(function() {
+		Books.init();
+	});
 </script>

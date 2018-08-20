@@ -180,88 +180,65 @@
 	"buffers":
 	[
 		{
-			"file": "comics.html",
+			"file": "css/main.scss",
 			"settings":
 			{
-				"buffer_size": 410,
+				"buffer_size": 1391,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"file": "_sass/outpost.scss",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
+				"buffer_size": 1944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "body.outpost {"
 			}
 		},
 		{
-			"file": "_comics/sailingstones.markdown",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 321,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_drawings/trueno_enrollado_1.markdown",
-			"settings":
-			{
-				"buffer_size": 246,
+				"buffer_size": 836,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_drawings/trueno_enrollado_2.markdown",
+			"file": "_layouts/outpost.html",
 			"settings":
 			{
-				"buffer_size": 246,
+				"buffer_size": 1174,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_drawings/trueno_enrollado_3.markdown",
+			"file": "_sass/_header.scss",
 			"settings":
 			{
-				"buffer_size": 246,
+				"buffer_size": 3251,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_drawings/trueno_enrollado_4.markdown",
+			"file": "_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 246,
+				"buffer_size": 1296,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_drawings/trueno_enrollado_5.markdown",
+			"file": "_includes/footer.html",
 			"settings":
 			{
-				"buffer_size": 246,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_drawings/trueno_enrollado_6.markdown",
-			"settings":
-			{
-				"buffer_size": 246,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "outpost.html",
-			"settings":
-			{
-				"buffer_size": 33,
+				"buffer_size": 294,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -272,6 +249,22 @@
 			{
 				"buffer_size": 133,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css/component.css",
+			"settings":
+			{
+				"buffer_size": 10408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/index.html",
+			"settings":
+			{
+				"buffer_size": 9596,
 				"line_ending": "Unix"
 			}
 		}
@@ -449,15 +442,29 @@
 	"expanded_folders":
 	[
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_eng_comics",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_includes",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_layouts",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/dib_imgs",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/img"
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_sass",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/css",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/site_imgs",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/site_imgs/outpost",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/css",
+		"/home/donhilo/Escritorio/3DBookShowcase",
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase",
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css"
 	],
 	"file_history":
 	[
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/comics.html",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics/sailingstones.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_1.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_2.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_3.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_4.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_5.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_6.markdown",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/outpost.html",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics/txexex.markdown",
 		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/header.blade.php",
 		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/controllers/app.php",
@@ -576,20 +583,11 @@
 		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/composer.json",
 		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/README.md",
 		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/functions.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/scripts/autoload/_fontawesome.js",
-		"/tmp/fz3temp-1/index 2.html",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_footnotes.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/header.php",
-		"/home/donhilo/Documentos/fondos/fondart/2018/trueno_enrollado/tareas.todo",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/layouts/app.blade.php",
-		"/home/donhilo/.config/sublime-text-3/Packages/User/JsPrettier.sublime-settings",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/.eslintrc.js",
-		"/home/donhilo/lmms/projects/lyrics_01.txt",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/dploy.yaml"
+		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/scripts/autoload/_fontawesome.js"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -603,6 +601,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"box-shadow",
+			"400px",
+			"display",
 			"sailing",
 			"stray"
 		],
@@ -622,24 +623,173 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "comics.html",
+					"file": "css/main.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 410,
+						"buffer_size": 1391,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								410,
-								410
+								1041,
+								1041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/outpost.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1389,
+								1389
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body.outpost {",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/outpost.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_sass/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
 							]
 						],
 						"settings":
@@ -652,248 +802,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_comics/sailingstones.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 321,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_drawings/trueno_enrollado_1.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_drawings/trueno_enrollado_2.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_drawings/trueno_enrollado_3.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_drawings/trueno_enrollado_4.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_drawings/trueno_enrollado_5.markdown",
+					"buffer": 6,
+					"file": "_includes/footer.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 246,
+						"buffer_size": 294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_drawings/trueno_enrollado_6.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "outpost.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 33,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								33
+								294,
+								294
 							]
 						],
 						"settings":
@@ -904,11 +830,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 7,
 					"file": "/home/donhilo/Programas/startkrita.sh",
 					"semi_transient": false,
 					"settings":
@@ -932,7 +858,71 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css/component.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4622,
+								4622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2963.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3412,
+								3412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -955,11 +945,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -986,6 +983,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"header",
+				"pabloselin.github.io/_includes/header.html"
+			],
+			[
+				"outpos",
+				"_sass/outpost.scss"
+			],
+			[
+				"outpo",
+				"outpost.html"
+			],
+			[
+				"head",
+				"_includes/header.html"
+			],
+			[
+				"out",
+				"_layouts/outpost.html"
+			],
 			[
 				"glob",
 				"resources/assets/styles/common/_global.scss"
@@ -1019,20 +1036,12 @@
 				"resources/views/partials/entry-meta.blade.php"
 			],
 			[
-				"header",
-				"resources/assets/styles/layouts/_header.scss"
-			],
-			[
 				"main",
 				"resources/assets/styles/main.scss"
 			],
 			[
 				"sideb",
 				"resources/views/partials/sidebar.blade.php"
-			],
-			[
-				"head",
-				"resources/views/partials/header.blade.php"
 			],
 			[
 				"comm",
@@ -1485,18 +1494,6 @@
 			[
 				"edicion",
 				"resources/views/partials/content-single-ediciones.blade.php"
-			],
-			[
-				"edicione",
-				"resources/views/partials/content-single-ediciones.blade.php"
-			],
-			[
-				"asset",
-				"config/assets.php"
-			],
-			[
-				"pack",
-				"package.json"
 			]
 		],
 		"width": 0.0
@@ -1504,9 +1501,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "gon",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Documentos/code/projects/aura_austral.sublime-project"
+			],
 			[
 				"gon",
 				"~/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/gonzaloaguirre.sublime-project"
@@ -1518,10 +1519,6 @@
 			[
 				"tro",
 				"~/Documentos/code/js/trolley_nextjs/trolley.sublime-project"
-			],
-			[
-				"",
-				"~/Documentos/code/projects/aura_austral.sublime-project"
 			],
 			[
 				"aur",

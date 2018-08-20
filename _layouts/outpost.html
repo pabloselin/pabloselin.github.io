@@ -1,34 +1,57 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="outpost">
+<body class="outpost">
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="lib-wrap-top">
-        <div class="lib-wrap">
-            <div class="lib-front" >
-              <img src="{{ site.url }}/site_imgs/outpost/outpost_portada_small.jpg" alt="">
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="lib-wrap-top">
+        <div>
+          <ul id="bk-list" class="bk-list clearfix">
+            <li>
+              <div class="bk-book book-1 bk-bookdefault">
+                <div class="bk-front">
+                  <div class="bk-cover-back"></div>
+                  <div class="bk-cover">
+
+                 </div>
+               </div>
+               <div class="bk-page">
+
+               </div>
+               <div class="bk-back">
+                
+               </div>
+               <div class="bk-right"></div>
+               <div class="bk-left">
+                
+              </div>
+              <div class="bk-top"></div>
+              <div class="bk-bottom"></div>
             </div>
-            <div class="lib-right"></div>
-            <div class="lib-back"><img src="{{ site.url }}/site_imgs/outpost/outpost_contratapa_small.jpg" alt=""></div>
-            <div class="lib-left"><img src="{{ site.url }}/site_imgs/outpost/outpost_lomo_small.png" alt=""></div>
-
-        </div>
-        </div>
-        <p><a download="outpost_1.pdf" href="http://static.pablosel.in/pablosel.in/outpost/outpost_1.pdf">Download PDF</a>
-        <a download="outpost_1.cbr" href="http://static.pablosel.in/pablosel.in/outpost/outpost_1.cbr">Download CBR</a></p>
+            <div class="bk-info">
+              <button class="bk-bookback"><i class="fas fa-exchange-alt"></i></button>
+              <p><a class="downlink" download="outpost_1.pdf" href="http://static.pablosel.in/pablosel.in/outpost/outpost_1.pdf"><i class="fas fa-download"></i> Download PDF</a>
+        <a class="downlink" download="outpost_1.cbr" href="http://static.pablosel.in/pablosel.in/outpost/outpost_1.cbr"><i class="fas fa-download"></i> Download CBR</a></p>
+        <div class="infozone">
         <p class="infop">84 páginas - español con subtítulos en inglés - gratis</p>
         <p class="infop">84 pages - spanish with english subtitles - free</p>
+           </div>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
+    </div>
+  </div>
 
-    {% include footer.html %}
 
-  </body>
+  {% include footer.html %}
+
+</body>
 
 </html>
