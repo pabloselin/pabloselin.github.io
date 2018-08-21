@@ -192,10 +192,19 @@
 			"file": "_sass/outpost.scss",
 			"settings":
 			{
-				"buffer_size": 1944,
+				"buffer_size": 8498,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "body.outpost {"
+			}
+		},
+		{
+			"file": "outpost.html",
+			"settings":
+			{
+				"buffer_size": 114,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -211,8 +220,25 @@
 			"file": "_layouts/outpost.html",
 			"settings":
 			{
-				"buffer_size": 1174,
+				"buffer_size": 1883,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "comics.html",
+			"settings":
+			{
+				"buffer_size": 706,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_site/js/3dbook.js",
+			"settings":
+			{
+				"buffer_size": 2450,
 				"line_ending": "Unix"
 			}
 		},
@@ -235,36 +261,48 @@
 			}
 		},
 		{
+			"file": "/tmp/fz3temp-1/.htaccess",
+			"settings":
+			{
+				"buffer_size": 192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "_includes/footer.html",
 			"settings":
 			{
-				"buffer_size": 294,
+				"buffer_size": 494,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/donhilo/Programas/startkrita.sh",
+			"file": "js/3dbook.js",
 			"settings":
 			{
-				"buffer_size": 133,
+				"buffer_size": 2450,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css/component.css",
+			"file": "js/downloadFile.js",
 			"settings":
 			{
-				"buffer_size": 10408,
-				"line_ending": "Unix"
+				"buffer_size": 1422,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "window.downloadFile = function (sUrl) {"
 			}
 		},
 		{
-			"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/index.html",
+			"file": "_includes/head.html",
 			"settings":
 			{
-				"buffer_size": 9596,
+				"buffer_size": 2014,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -281,12 +319,20 @@
 		"selected_items":
 		[
 			[
-				"comm",
-				"Toggle Comment"
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
 			],
 			[
 				"rein",
 				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"pret",
+				"JsPrettier: Format Code"
 			],
 			[
 				"prefere",
@@ -303,10 +349,6 @@
 			[
 				"settings",
 				"Preferences: Settings"
-			],
-			[
-				"pret",
-				"JsPrettier: Format Code"
 			],
 			[
 				"comme",
@@ -442,20 +484,25 @@
 	"expanded_folders":
 	[
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_includes",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_layouts",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_sass",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/css",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/js",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/site_imgs",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/site_imgs/outpost",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/css",
 		"/home/donhilo/Escritorio/3DBookShowcase",
 		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css"
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css",
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/js"
 	],
 	"file_history":
 	[
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css/component.css",
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/js/books1.js",
+		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/index.html",
+		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/outpost.html",
+		"/home/donhilo/Programas/startkrita.sh",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/comics.html",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics/sailingstones.markdown",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_1.markdown",
@@ -464,7 +511,6 @@
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_4.markdown",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_5.markdown",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_6.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/outpost.html",
 		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics/txexex.markdown",
 		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/header.blade.php",
 		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/controllers/app.php",
@@ -579,15 +625,11 @@
 		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-config.php",
 		"/usr/share/applications/sublime_text.desktop",
 		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/entry-meta.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_posts.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/composer.json",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/README.md",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/functions.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/scripts/autoload/_fontawesome.js"
+		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_posts.scss"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -601,6 +643,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"down",
+			"downlink",
+			"back",
+			"book",
+			"flip",
 			"box-shadow",
 			"400px",
 			"display",
@@ -653,7 +700,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -662,24 +709,26 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1944,
+						"buffer_size": 8498,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1389,
-								1389
+								474,
+								474
 							]
 						],
 						"settings":
 						{
 							"auto_name": "body.outpost {",
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 495.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -687,6 +736,34 @@
 				},
 				{
 					"buffer": 2,
+					"file": "outpost.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
@@ -712,24 +789,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "_layouts/outpost.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1174,
+						"buffer_size": 1883,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								689,
-								689
+								452,
+								452
 							]
 						],
 						"settings":
@@ -742,11 +819,68 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
+					"file": "comics.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_site/js/3dbook.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "_sass/_header.scss",
 					"semi_transient": false,
 					"settings":
@@ -772,11 +906,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 8,
 					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
@@ -788,8 +922,8 @@
 						"selection":
 						[
 							[
-								229,
-								229
+								1264,
+								1264
 							]
 						],
 						"settings":
@@ -802,24 +936,52 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "_includes/footer.html",
+					"buffer": 9,
+					"file": "/tmp/fz3temp-1/.htaccess",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 294,
+						"buffer_size": 192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
 							]
 						],
 						"settings":
@@ -834,95 +996,93 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/home/donhilo/Programas/startkrita.sh",
+					"buffer": 11,
+					"file": "js/3dbook.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 133,
+						"buffer_size": 2450,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								133,
-								133
+								2450,
+								2450
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 423.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/downloadFile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1422,
+								1422
+							]
+						],
+						"settings":
+						{
+							"auto_name": "window.downloadFile = function (sUrl) {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 8,
-					"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css/component.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 10408,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4622,
-								4622
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2963.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/index.html",
+					"buffer": 13,
+					"file": "_includes/head.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9596,
+						"buffer_size": 2014,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3412,
-								3412
+								1567,
+								1567
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 405.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -945,18 +1105,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -984,24 +1137,64 @@
 		"selected_items":
 		[
 			[
-				"header",
-				"pabloselin.github.io/_includes/header.html"
-			],
-			[
 				"outpos",
-				"_sass/outpost.scss"
+				"pabloselin.github.io/_sass/outpost.scss"
 			],
 			[
-				"outpo",
-				"outpost.html"
+				"outpost.h",
+				"pabloselin.github.io/outpost.html"
 			],
 			[
 				"head",
-				"_includes/header.html"
+				"pabloselin.github.io/_includes/head.html"
+			],
+			[
+				"comic",
+				"pabloselin.github.io/comics.html"
 			],
 			[
 				"out",
-				"_layouts/outpost.html"
+				"pabloselin.github.io/_layouts/outpost.html"
+			],
+			[
+				"outpo",
+				"pabloselin.github.io/_layouts/outpost.html"
+			],
+			[
+				"heade",
+				"pabloselin.github.io/_includes/header.html"
+			],
+			[
+				"",
+				"pabloselin.github.io/_layouts/outpost.html"
+			],
+			[
+				"foot",
+				"pabloselin.github.io/_includes/footer.html"
+			],
+			[
+				"ou",
+				"pabloselin.github.io/_sass/outpost.scss"
+			],
+			[
+				"index",
+				"3DBookShowcase/3DBookShowcase/index.html"
+			],
+			[
+				"compo",
+				"3DBookShowcase/3DBookShowcase/css/component.css"
+			],
+			[
+				"outpost",
+				"pabloselin.github.io/_layouts/outpost.html"
+			],
+			[
+				"foo",
+				"pabloselin.github.io/_includes/footer.html"
+			],
+			[
+				"header",
+				"pabloselin.github.io/_includes/header.html"
 			],
 			[
 				"glob",
@@ -1120,10 +1313,6 @@
 				"app/setup.php"
 			],
 			[
-				"",
-				"~/.config/filezilla/sitemanager.xml"
-			],
-			[
 				"not",
 				"notas.todo"
 			],
@@ -1138,10 +1327,6 @@
 			[
 				"conten",
 				"resources/views/partials/content.blade.php"
-			],
-			[
-				"index",
-				"resources/views/index.blade.php"
 			],
 			[
 				"front",
@@ -1170,10 +1355,6 @@
 			[
 				"content-sin",
 				"resources/views/partials/content-single.blade.php"
-			],
-			[
-				"foot",
-				"resources/assets/styles/layouts/_footer.scss"
 			],
 			[
 				"visual",
@@ -1340,10 +1521,6 @@
 				"app/filters.php"
 			],
 			[
-				"heade",
-				"resources/views/partials/header.blade.php"
-			],
-			[
 				"page",
 				"resources/assets/styles/layouts/_page.scss"
 			],
@@ -1470,30 +1647,6 @@
 			[
 				"content-hom",
 				"resources/views/partials/content-homeitem.blade.php"
-			],
-			[
-				"entr",
-				"resources/views/partials/entry-meta-plain.blade.php"
-			],
-			[
-				"front-pa",
-				"app/controllers/front-page.php"
-			],
-			[
-				"content-sing",
-				"resources/views/partials/content-single.blade.php"
-			],
-			[
-				"homeitm",
-				"resources/assets/styles/components/_homeitem.scss"
-			],
-			[
-				"main.js",
-				"resources/assets/scripts/main.js"
-			],
-			[
-				"edicion",
-				"resources/views/partials/content-single-ediciones.blade.php"
 			]
 		],
 		"width": 0.0
@@ -1501,9 +1654,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "troll",
 		"selected_items":
 		[
+			[
+				"troll",
+				"~/Documentos/code/js/trolley_nextjs/trolley.sublime-project"
+			],
 			[
 				"",
 				"~/Documentos/code/projects/aura_austral.sublime-project"
