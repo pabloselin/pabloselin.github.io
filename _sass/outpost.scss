@@ -4,7 +4,7 @@ body.outpost {
   color: white;
   background-image: url(../site_imgs/outpost/outpost_background_b.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
 
   @media screen and (max-width: 768px) {
     background-size: auto;
