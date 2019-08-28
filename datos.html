@@ -5,25 +5,51 @@ layout: default
 <h1>Data</h1>
 
 <div class="twocols">
-
-        <p>Pablo Selín</p>
-        <p>b. 1981</p>
-        <p>Lives in Melipilla, Chile</p>
-         <p>Representation in Santiago, Chile by <a href="https://www.theintuitivemachine.com/">The Intuitive Machine</a></p>
-        <p><a href="./pdf/pabloselin_portafolio_2019.pdf">Download PDF portfolio</a></p>
-        <p>Instagram: <a href="https://instagram.com/pablo_selin/">@pablo_selin</a></p>
-        <p>Deals and ideas write me to <a href="mailto:pabloselin@gmail.com">pabloselin@gmail.com</a></p>
+    <p>Pablo Selín</p>
+    <p>b. 1981</p>
+    <p>Lives in Melipilla, Chile</p>
+    <p>
+        Representation in Santiago, Chile by
+        <a href="https://www.theintuitivemachine.com/">The Intuitive Machine</a>
+    </p>
+    <p>
+        Prints and zines at
+        <a href="https://www.instagram.com/casa.fantasma/">casa.fantasma</a>
+    </p>
+    <p>
+        <a href="./pdf/pabloselin_portafolio_2019.pdf"
+            >Download PDF portfolio</a
+        >
+    </p>
+    <p>
+        Instagram: <a href="https://instagram.com/pablo_selin/">@pablo_selin</a>
+    </p>
+    <p>
+        Deals and ideas write me to
+        <a href="mailto:pabloselin@gmail.com">pabloselin@gmail.com</a>
+    </p>
 </div>
+
+<h2>Solo exhibitions</h2>
+<ul>
+    <li>2019 - KLAK - Centro Cultural Teatro Serrano, Melipilla, Chile</li>
+</ul>
 
 <h2>Selected group exhibitions</h2>
 
 <ul>
-     {% for expo in site.data.expos %}
+    {% for expo in site.data.expos %}
     <li>{{expo.year}} - {{expo.name}}. {{expo.place}}</li>
     {% endfor %}
 </ul>
 <p>
-* Between 2004 - 2011 I worked in the art-world with the latin-american collective Incas of Emergency, you can check more of it in <a href="https://www.youtube.com/user/devilspepegrillo/videos" target="_blank">their youtube channel.</a>
+    * Between 2004 - 2011 I worked in the art-world with the latin-american
+    collective Incas of Emergency, you can check more of it in
+    <a
+        href="https://www.youtube.com/user/devilspepegrillo/videos"
+        target="_blank"
+        >their youtube channel.</a
+    >
 </p>
 <h2>Art fairs</h2>
 
@@ -34,12 +60,14 @@ layout: default
 </ul>
 
 <h2>Residencies</h2>
-    
-    <ul>
+
+<ul>
     {% for residency in site.data.residencies %}
-    <li>{{residency.year}} - {{residency.name}} - <em>{{residency.extra}}</em></li>
+    <li>
+        {{residency.year}} - {{residency.name}} - <em>{{residency.extra}}</em>
+    </li>
     {% endfor %}
-    </ul>
+</ul>
 
 <h2>FONDART (National Fund for the Development of Culture and the Arts)</h2>
 <ul>
@@ -60,7 +88,9 @@ layout: default
 
 <ul>
     {% for antology in site.data.antologies %}
-    <li>{{antology.year}} - {{antology.name}}  - <em>{{antology.country}}</em></li>
+    <li>
+        {{antology.year}} - {{antology.name}} - <em>{{antology.country}}</em>
+    </li>
     {% endfor %}
 </ul>
 
@@ -82,8 +112,10 @@ layout: default
 
 <h2>Video Games</h2>
 <ul>
-     {% for videogame in site.data.videogames %}
-     <li>{{videogame.year}} - {{videogame.name}} <br/> <a href="{{videogame.link}}">Link</a></li>
-     {% endfor %}
+    {% for videogame in site.data.videogames %}
+    <li>
+        {{videogame.year}} - {{videogame.name}} <br />
+        <a href="{{videogame.link}}">Link</a>
+    </li>
+    {% endfor %}
 </ul>
-
