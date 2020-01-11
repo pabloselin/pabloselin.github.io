@@ -4,308 +4,57 @@
 		"selected_items":
 		[
 			[
-				"metadata",
-				"get_metadata"
+				"append",
+				"append-zone-filter"
 			],
 			[
-				"video",
-				"video_args"
+				"login_ur",
+				"wp_login_url\tWP Function"
 			],
 			[
-				"wp_oembed",
-				"wp_oembed_get"
+				"justify-content",
+				"justify-content-end \tBootstrap 4 Class"
 			],
 			[
-				"car",
-				"carousel-title"
-			],
-			[
-				"edicio",
-				"ediciones_content"
-			],
-			[
-				"edici",
-				"ediciones_content"
-			],
-			[
-				"get_the_pst",
-				"get_the_post_thumbnail_url"
-			],
-			[
-				"HotspoT",
-				"HotspotTitle"
-			],
-			[
-				"getCu",
-				"getCurVidPoster"
-			],
-			[
-				"getCur",
-				"getCurVidTitle"
-			],
-			[
-				"cur",
-				"curVideo"
-			],
-			[
-				"curvi",
-				"curVideoInfo"
-			],
-			[
-				"curv",
-				"curVideoInfo"
-			],
-			[
-				"get",
-				"getCurVidId"
-			],
-			[
-				"url",
-				"urlExists"
-			],
-			[
-				"wp_get_attachment_image",
-				"wp_get_attachment_image_src"
-			],
-			[
-				"wp_get_attach",
-				"wp_get_attachment_url"
-			],
-			[
-				"get_the_post_th",
-				"get_the_post_thumbnail_url"
-			],
-			[
-				"template",
-				"template_directory_uri"
-			],
-			[
-				"Hot",
-				"HotspotWrapper"
-			],
-			[
-				"a",
-				"activeMenu"
-			],
-			[
-				"hots",
-				"hotspotType"
-			],
-			[
-				"acti",
-				"activeKey"
-			],
-			[
-				"firs",
-				"firstRun"
-			],
-			[
-				"toggle",
-				"toggleHelpWindow"
-			],
-			[
-				"act",
-				"activeKey"
-			],
-			[
-				"text",
-				"renderTextWindow"
-			],
-			[
-				"switc",
-				"switchScene"
-			],
-			[
-				"scene",
-				"sceneTextContent"
-			],
-			[
-				"find",
-				"findScene"
-			],
-			[
-				"Po",
-				"PointText"
-			],
-			[
-				"hotspot",
-				"hotspotCircle"
-			],
-			[
-				"hotspotD",
-				"hotspotData"
-			],
-			[
-				"Hostpo",
-				"HotspotType"
-			],
-			[
-				"device",
-				"deviceControl"
-			],
-			[
-				"deviceO",
-				"deviceOrientationControlMethod"
-			],
-			[
-				"fontaw",
-				"fontawesome-free-solid"
-			],
-			[
-				"Deci",
-				"DeviceOrientationControlMethod"
-			],
-			[
-				"Device",
-				"DeviceOrientationControlMethod"
-			],
-			[
-				"Marzip",
-				"MarzipanoView"
-			],
-			[
-				"buil",
-				"buildImageTitle"
-			],
-			[
-				"is-accordion",
-				"is-accordion-submenu-parent"
+				"is_ob",
+				"is_object_in_taxonomy\tWP Function"
 			],
 			[
 				"is",
-				"is-accordion-submenu-parent"
+				"is_array"
+			],
+			[
+				"get_taxonom",
+				"get_taxonomy_labels\tWP Function"
+			],
+			[
+				"is_sing",
+				"is_singular\tWP Function"
+			],
+			[
+				"queyr",
+				"queryUrl"
+			],
+			[
+				"query",
+				"query_vars\tWP Filter Name"
+			],
+			[
+				"struct",
+				"structured_search"
+			],
+			[
+				"actor",
+				"actor_name"
+			],
+			[
+				"fiels",
+				"fields_data"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "css/main.scss",
-			"settings":
-			{
-				"buffer_size": 1391,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/outpost.scss",
-			"settings":
-			{
-				"buffer_size": 8498,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "body.outpost {"
-			}
-		},
-		{
-			"file": "outpost.html",
-			"settings":
-			{
-				"buffer_size": 114,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 837,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/tmp/fz3temp-1/.htaccess",
-			"settings":
-			{
-				"buffer_size": 195,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/outpost.html",
-			"settings":
-			{
-				"buffer_size": 1883,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "comics.html",
-			"settings":
-			{
-				"buffer_size": 706,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_site/js/3dbook.js",
-			"settings":
-			{
-				"buffer_size": 2450,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_header.scss",
-			"settings":
-			{
-				"buffer_size": 3251,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 1296,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 495,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/3dbook.js",
-			"settings":
-			{
-				"buffer_size": 2450,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/downloadFile.js",
-			"settings":
-			{
-				"buffer_size": 1422,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "window.downloadFile = function (sUrl) {"
-			}
-		},
-		{
-			"file": "_includes/head.html",
-			"settings":
-			{
-				"buffer_size": 2014,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -319,155 +68,67 @@
 		"selected_items":
 		[
 			[
-				"wrap",
-				"Emmet: Wrap With Abbreviation"
+				"save proj",
+				"Project: Save As"
 			],
 			[
-				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"comm",
-				"Toggle Comment"
-			],
-			[
-				"pret",
-				"JsPrettier: Format Code"
+				"synsass",
+				"Set Syntax: SCSS"
 			],
 			[
 				"prefere",
 				"Preferences: Settings"
 			],
 			[
-				"prett",
-				"JsPrettier: Format Code"
-			],
-			[
-				"bab",
-				"Set Syntax: JavaScript (Babel)"
-			],
-			[
-				"settings",
-				"Preferences: Settings"
-			],
-			[
-				"comme",
-				"Toggle Comment"
-			],
-			[
-				"babe",
-				"Set Syntax: JavaScript (Babel)"
-			],
-			[
-				"pre",
-				"JsPrettier: Format Code"
-			],
-			[
-				"sybab",
-				"Set Syntax: JavaScript (Babel)"
-			],
-			[
-				"pretti",
-				"JsPrettier: Format Code"
-			],
-			[
-				"reind",
+				"rein",
 				"Indentation: Reindent Lines"
 			],
 			[
-				"inden",
+				"reinde",
 				"Indentation: Reindent Lines"
-			],
-			[
-				"html",
-				"Snippet: Simple HTML5 Boilerplate"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"com",
-				"Toggle Comment"
 			],
 			[
 				"instal",
 				"Package Control: Install Package"
 			],
 			[
-				"indent",
-				"Indexing Status"
-			],
-			[
-				"emex",
-				"Emmet: Expand Abbreviation"
-			],
-			[
-				"emmewr",
+				"wr",
 				"Emmet: Wrap With Abbreviation"
 			],
 			[
-				"ba",
-				"Set Syntax: JavaScript (Babel)"
+				"ren",
+				"Rename File"
 			],
 			[
-				"synblad",
-				"Set Syntax: Laravel Blade"
-			],
-			[
-				"toggle",
-				"Toggle Comment"
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
 			],
 			[
 				"ww",
 				"Word Wrap: Toggle"
 			],
 			[
-				"color",
-				"UI: Select Color Scheme"
-			],
-			[
-				"package ins",
+				"install package",
 				"Package Control: Install Package"
 			],
 			[
-				"js",
-				"Set Syntax: JavaScript (Babel)"
-			],
-			[
-				"prettie",
-				"Preferences: JsPrettier Settings - User"
-			],
-			[
-				"save",
-				"File: Save All"
-			],
-			[
-				"prefe",
-				"Preferences: Settings"
-			],
-			[
-				"PRETT",
-				"JsPrettier: Format Code"
-			],
-			[
-				"babel",
-				"Set Syntax: JavaScript (Babel)"
-			],
-			[
-				"tood",
-				"Set Syntax: ToDone"
-			],
-			[
-				"packin",
+				"intall pag",
 				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inspac",
+				"Install Package Control"
 			]
 		],
 		"width": 0.0
 	},
 	"console":
 	{
-		"height": 573.0,
+		"height": 0.0,
 		"history":
 		[
 		]
@@ -483,157 +144,51 @@
 	},
 	"expanded_folders":
 	[
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_includes",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/css",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/js",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/site_imgs",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_site/site_imgs/outpost",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/css",
-		"/home/donhilo/Escritorio/3DBookShowcase",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/js"
+		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src"
 	],
 	"file_history":
 	[
-		"/tmp/fz3temp-1/.htaccess",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/css/component.css",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/js/books1.js",
-		"/home/donhilo/Escritorio/3DBookShowcase/3DBookShowcase/index.html",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/outpost.html",
-		"/home/donhilo/Programas/startkrita.sh",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/comics.html",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics/sailingstones.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_1.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_2.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_3.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_4.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_5.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_drawings/trueno_enrollado_6.markdown",
-		"/home/donhilo/Documentos/code/statics/pabloselin.github.io/_comics/txexex.markdown",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/header.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/controllers/app.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/helpers.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/video-grid.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/entry-meta.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/content.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/content-single.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/single.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/sidebar.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/filters.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/setup.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/gonzaloaguirre.sublime-project",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/layouts/app.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/scripts/routes/common.js",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/layouts/_header.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/plugins/ga-custom-fields/ga-custom-fields.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/partials/content-search.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-config.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/common/_variables.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/layouts/_sidebar.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/layouts/_posts.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/layouts/_pages.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/controllers/front-page.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/app/controllers/single.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/views/home.blade.php",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/main.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/resources/assets/styles/common/_global.scss",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/notas.todo",
-		"/home/donhilo/.config/filezilla/sitemanager.xml",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/dploy.yaml",
-		"/home/donhilo/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/.gitignore",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_nav.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_header.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/main.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/scripts/main.js",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_homeitem.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_archive.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/common/_variables.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_single-ediciones.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/single-ediciones.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/app.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-single-ediciones.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-archiveitem-glosario.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_archiveitem-glosario.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/archive.blade.php",
-		"/tmp/fz3temp-1/index.html",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/nav-primary.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_editem.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/single.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_carditem.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-carditem.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_single.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/phpdocker/php-fpm/Dockerfile",
-		"/home/donhilo/Documentos/code/php/auraaustral/docker-compose.yml",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/index.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/setup.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/page-header.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/filters.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/single.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/index.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-archiveitem.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/cosas.todo",
-		"/home/donhilo/Escritorio/trjmama.txt",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/entry-meta-plain.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/front-page.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/archive-ediciones.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-edicioncard.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/components/_edicioncard.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/footer.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_archive-ediciones.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/archive-ediciones.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/layouts/_page.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-page.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-editem.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/styles/common/_global.scss",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-homeitem.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/home.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-single.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/page.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/single-glosario.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/header.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/helpers.php",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/package.json",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/HotspotTitle.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/Point.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/Hotspot.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/static/base.css",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/MarzipanoView.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/config.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/Figure.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/TextWindow.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/ModalContainer.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/MarzipanoUI.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/HotspotVideo.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/data/data_trolley_dspace.json",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/data/dummy.json",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/Gallery.js",
-		"/home/donhilo/Documentos/code/js/trolley_nextjs/components/MarzipanoBrand.js",
-		"/usr/share/phatch/phatch/lib/pyWx/wxPil.py",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/app/controllers/footer.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/dploy.yaml",
-		"/etc/hosts",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/head.blade.php",
-		"/home/donhilo/Documentos/code/php/c80/public/wp-content/themes/c80-template/dploy.yaml",
-		"/tmp/fz3temp-1/wp-config.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/assets/scripts/routes/common.js",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/config/assets.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/content-single-visual.blade.php",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/package.json",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/dist/assets.json",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-config.php",
-		"/usr/share/applications/sublime_text.desktop",
-		"/home/donhilo/Documentos/code/php/auraaustral/public/wp-content/themes/auraaustral/resources/views/partials/entry-meta.blade.php"
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/gulpfile.js",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/package.json",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/js/itrend-filters-scripts.js",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-public.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-filters.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/network.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-filters-frontend.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-custom-fields.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/scss/custom-materialize.scss",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/scss/_custom-variables.scss",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/components/_typography.scss",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/scss/itrend-actores.scss",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/materialize.scss",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-ficha-actor.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/components/_color-variables.scss",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/itrend-actores.css",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/itrend-filters-styles.css",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-template-functions.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-main.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-header.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/readme.md",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/dploy.yaml",
+		"/home/pabloselin/.gitignore",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/themes/itrend_plain/dploy.yaml",
+		"/tmp/fz3temp-2/wp-config.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-config.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/reunion_06012020.todo",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-visualization.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-footer.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-custom-posts.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/themes/itrend_plain/footer.php",
+		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/themes/itrend_plain/header.php"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
-		"height": 122.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -643,16 +198,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"down",
-			"downlink",
-			"back",
-			"book",
-			"flip",
-			"box-shadow",
-			"400px",
-			"display",
-			"sailing",
-			"stray"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -670,431 +215,18 @@
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "css/main.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1391,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1041,
-								1041
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_sass/outpost.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8498,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								406,
-								406
-							]
-						],
-						"settings":
-						{
-							"auto_name": "body.outpost {",
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "outpost.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 114,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								114,
-								114
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 837,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								611,
-								611
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/tmp/fz3temp-1/.htaccess",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_layouts/outpost.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1883,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								452,
-								452
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "comics.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_site/js/3dbook.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2450,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								602,
-								602
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_sass/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3251,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								369,
-								369
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_includes/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1296,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1264,
-								1264
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "_includes/footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 495,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								58,
-								58
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "js/3dbook.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2450,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2450,
-								2450
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 423.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "js/downloadFile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1422,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1422,
-								1422
-							]
-						],
-						"settings":
-						{
-							"auto_name": "window.downloadFile = function (sUrl) {",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "_includes/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2014,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1567,
-								1567
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 36.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -1127,7 +259,7 @@
 	"project": "pabloselin.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1137,516 +269,188 @@
 		"selected_items":
 		[
 			[
-				"foot",
-				"pabloselin.github.io/_includes/footer.html"
+				"itrend-ron",
+				"itrend_custom_content/templates/itrend-filters-frontend.php"
 			],
 			[
-				"head",
-				"pabloselin.github.io/_includes/head.html"
+				"filte",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"outpos",
-				"pabloselin.github.io/_sass/outpost.scss"
+				"publi",
+				"itrend_custom_content/itrend-public.php"
 			],
 			[
-				"outpost.h",
-				"pabloselin.github.io/outpost.html"
+				"custom-va",
+				"itrend_custom_content/css/scss/_custom-variables.scss"
 			],
 			[
-				"comic",
-				"pabloselin.github.io/comics.html"
+				"custommat",
+				"itrend_custom_content/css/scss/custom-materialize.scss"
 			],
 			[
-				"out",
-				"pabloselin.github.io/_layouts/outpost.html"
+				"var",
+				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/components/_variables.scss"
 			],
 			[
-				"outpo",
-				"pabloselin.github.io/_layouts/outpost.html"
-			],
-			[
-				"heade",
-				"pabloselin.github.io/_includes/header.html"
-			],
-			[
-				"",
-				"pabloselin.github.io/_layouts/outpost.html"
-			],
-			[
-				"ou",
-				"pabloselin.github.io/_sass/outpost.scss"
-			],
-			[
-				"index",
-				"3DBookShowcase/3DBookShowcase/index.html"
-			],
-			[
-				"compo",
-				"3DBookShowcase/3DBookShowcase/css/component.css"
-			],
-			[
-				"outpost",
-				"pabloselin.github.io/_layouts/outpost.html"
-			],
-			[
-				"foo",
-				"pabloselin.github.io/_includes/footer.html"
-			],
-			[
-				"header",
-				"pabloselin.github.io/_includes/header.html"
-			],
-			[
-				"glob",
-				"resources/assets/styles/common/_global.scss"
+				"pub",
+				"itrend_custom_content/itrend-public.php"
 			],
 			[
 				"filt",
-				"app/filters.php"
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"app",
-				"app/controllers/app.php"
+				"cuso",
+				"itrend_custom_content/itrend-custom-fields.php"
 			],
 			[
-				"help",
-				"app/helpers.php"
+				"",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"set",
-				"app/setup.php"
+				"net",
+				"itrend_custom_content/templates/network.php"
 			],
 			[
-				"content",
-				"resources/views/partials/content.blade.php"
+				"itr",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"content-",
-				"resources/views/partials/content-single.blade.php"
+				"itrendfron",
+				"itrend_custom_content/templates/itrend-filters-frontend.php"
 			],
 			[
-				"entry-me",
-				"resources/views/partials/entry-meta.blade.php"
+				"itrend-fil",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"main",
-				"resources/assets/styles/main.scss"
+				"cu",
+				"itrend_custom_content/itrend-custom-fields.php"
 			],
 			[
-				"sideb",
-				"resources/views/partials/sidebar.blade.php"
+				"ficha",
+				"itrend_custom_content/templates/itrend-ficha-actor.php"
 			],
 			[
-				"comm",
-				"resources/assets/scripts/routes/common.js"
+				"custom",
+				"itrend_custom_content/itrend-custom-fields.php"
 			],
 			[
-				"video",
-				"resources/views/partials/video-grid.blade.php"
+				"itrend-filte",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"singl",
-				"app/controllers/single.php"
+				"itrend-fronte",
+				"itrend_custom_content/templates/itrend-filters-frontend.php"
 			],
 			[
-				"conte",
-				"resources/views/partials/content-single.blade.php"
+				"publ",
+				"itrend_custom_content/itrend-public.php"
 			],
 			[
-				"video-gr",
-				"resources/views/partials/video-grid.blade.php"
+				"itrend-filt",
+				"itrend_custom_content/js/itrend-filters-scripts.js"
 			],
 			[
-				"content-si",
-				"resources/views/partials/content-single.blade.php"
+				"itrend-fi",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"single",
-				"resources/views/single.blade.php"
+				"wp",
+				"/tmp/fz3temp-2/wp-config.php"
 			],
 			[
-				"vide",
-				"resources/views/partials/video-grid.blade.php"
-			],
-			[
-				"side",
-				"resources/views/partials/sidebar.blade.php"
-			],
-			[
-				"giti",
-				".gitignore"
+				"dplo",
+				"itrend_custom_content/dploy.yaml"
 			],
 			[
 				"dpl",
-				"dploy.yaml"
+				"itrend_plain/dploy.yaml"
 			],
 			[
-				"sin",
-				"app/controllers/single.php"
+				"pu",
+				"itrend_custom_content/itrend-public.php"
 			],
 			[
-				"fil",
-				"app/filters.php"
+				"temp ",
+				"itrend_custom_content/itrend-template-functions.php"
 			],
 			[
-				"grid",
-				"resources/views/partials/video-grid.blade.php"
-			],
-			[
-				"global",
-				"resources/assets/styles/common/_global.scss"
-			],
-			[
-				"sing",
-				"app/controllers/single.php"
-			],
-			[
-				"glo",
-				"resources/assets/styles/common/_global.scss"
-			],
-			[
-				"un",
-				"untitled"
-			],
-			[
-				"setp",
-				"app/setup.php"
-			],
-			[
-				"not",
-				"notas.todo"
-			],
-			[
-				"vari",
-				"resources/assets/styles/common/_variables.scss"
-			],
-			[
-				"setup",
-				"app/setup.php"
-			],
-			[
-				"conten",
-				"resources/views/partials/content.blade.php"
-			],
-			[
-				"front",
-				"app/controllers/front-page.php"
-			],
-			[
-				"pages",
-				"resources/assets/styles/layouts/_pages.scss"
-			],
-			[
-				"pos",
-				"resources/assets/styles/layouts/_posts.scss"
-			],
-			[
-				"sideba",
-				"resources/assets/styles/layouts/_sidebar.scss"
-			],
-			[
-				"ap",
-				"app/controllers/app.php"
-			],
-			[
-				"sidebar",
-				"resources/views/partials/sidebar.blade.php"
-			],
-			[
-				"content-sin",
-				"resources/views/partials/content-single.blade.php"
-			],
-			[
-				"visual",
-				"resources/assets/styles/layouts/_single-visual.scss"
-			],
-			[
-				"varia",
-				"resources/assets/styles/common/_variables.scss"
-			],
-			[
-				"nav",
-				"resources/assets/styles/components/_nav.scss"
-			],
-			[
-				"nav-pr",
-				"resources/views/partials/nav-primary.blade.php"
-			],
-			[
-				"hel",
-				"app/helpers.php"
-			],
-			[
-				"globa",
-				"resources/assets/styles/common/_global.scss"
-			],
-			[
-				"404",
-				"resources/assets/styles/layouts/_404.scss"
-			],
-			[
-				"footer",
-				"resources/assets/styles/layouts/_footer.scss"
-			],
-			[
-				"single-ed",
-				"resources/assets/styles/layouts/_single-ediciones.scss"
-			],
-			[
-				"helpe",
-				"app/helpers.php"
-			],
-			[
-				"f",
-				"app/filters.php"
-			],
-			[
-				"single-visua",
-				"resources/views/partials/content-single-visual.blade.php"
-			],
-			[
-				"hom",
-				"resources/assets/styles/components/_homeitem.scss"
-			],
-			[
-				"glosari",
-				"resources/assets/styles/components/_archiveitem-glosario.scss"
-			],
-			[
-				"todo",
-				"cosas.todo"
-			],
-			[
-				"edit",
-				"resources/assets/styles/components/_editem.scss"
-			],
-			[
-				"editem",
-				"resources/views/partials/content-editem.blade.php"
-			],
-			[
-				"archive",
-				"resources/assets/styles/layouts/_archive.scss"
-			],
-			[
-				"archi",
-				"resources/views/archive.blade.php"
-			],
-			[
-				"glosa",
-				"resources/views/partials/content-archiveitem-glosario.blade.php"
-			],
-			[
-				"page-he",
-				"resources/views/partials/page-header.blade.php"
-			],
-			[
-				"inde",
-				"resources/views/index.blade.php"
-			],
-			[
-				"index.p",
-				"resources/index.php"
-			],
-			[
-				"cardit",
-				"resources/views/partials/content-carditem.blade.php"
-			],
-			[
-				"cardite",
-				"resources/assets/styles/components/_carditem.scss"
-			],
-			[
-				"index.",
-				"resources/views/index.blade.php"
-			],
-			[
-				"setu",
-				"app/setup.php"
-			],
-			[
-				"homeit",
-				"resources/views/partials/content-homeitem.blade.php"
-			],
-			[
-				"home",
-				"resources/views/home.blade.php"
-			],
-			[
-				"single-edic",
-				"resources/assets/styles/layouts/_single-ediciones.scss"
-			],
-			[
-				"homei",
-				"resources/assets/styles/components/_homeitem.scss"
-			],
-			[
-				"edicioncar",
-				"resources/assets/styles/components/_edicioncard.scss"
-			],
-			[
-				"edicionca",
-				"resources/views/partials/content-edicioncard.blade.php"
-			],
-			[
-				"content-edc",
-				"resources/views/partials/content-edicioncard.blade.php"
-			],
-			[
-				"archive-ed",
-				"resources/views/archive-ediciones.blade.php"
-			],
-			[
-				"edcard",
-				"resources/views/partials/content-edicioncard.blade.php"
-			],
-			[
-				"cardi",
-				"resources/assets/styles/components/_carditem.scss"
-			],
-			[
-				"edicioncard",
-				"resources/views/partials/content-edicioncard.blade.php"
-			],
-			[
-				"archiv",
-				"resources/views/archive-ediciones.blade.php"
-			],
-			[
-				"single-e",
-				"resources/assets/styles/layouts/_single-ediciones.scss"
+				"ma",
+				"itrend_custom_content/itrend-main.php"
 			],
 			[
 				"filter",
-				"app/filters.php"
+				"itrend_custom_content/css/itrend-filters-styles.css"
 			],
 			[
-				"page",
-				"resources/assets/styles/layouts/_page.scss"
+				"itrend",
+				"itrend_custom_content/templates/itrend-filters.php"
 			],
 			[
-				"card",
-				"resources/assets/styles/components/_carditem.scss"
+				"main",
+				"itrend_custom_content/itrend-main.php"
 			],
 			[
-				"main.sc",
-				"resources/assets/styles/main.scss"
+				"head",
+				"itrend_custom_content/templates/itrend-header.php"
 			],
 			[
-				"content-page",
-				"resources/views/partials/content-page.blade.php"
+				"fron",
+				"itrend_custom_content/templates/itrend-filters-frontend.php"
 			],
 			[
-				"entry",
-				"resources/views/partials/entry-meta-plain.blade.php"
+				"netw",
+				"itrend_custom_content/templates/network.php"
 			],
 			[
-				"front-p",
-				"app/controllers/front-page.php"
+				"debug",
+				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log"
 			],
 			[
-				"hotspotw",
-				"components/HotspotWrapper.js"
+				"deb",
+				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log"
 			],
 			[
-				"marzi",
-				"components/MarzipanoView.js"
+				"acto",
+				"itrend_custom_content/templates/itrend-ficha-actor.php"
 			],
 			[
-				"gallery",
-				"components/Gallery.js"
+				"debu",
+				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log"
 			],
 			[
-				"marzip",
-				"components/MarzipanoView.js"
+				"itrendfilt",
+				"itrend_custom_content/templates/itrend-filters-frontend.php"
 			],
 			[
-				"poin",
-				"components/Point.js"
+				"itrendcss",
+				"itrend_custom_content/css/itrend-filters-styles.css"
 			],
 			[
-				"ui",
-				"components/MarzipanoUI.js"
+				"templa",
+				"itrend_custom_content/itrend-template-functions.php"
 			],
 			[
-				"package",
-				"package.json"
+				"actor",
+				"itrend_custom_content/templates/itrend-ficha-actor.php"
 			],
 			[
-				"galle",
-				"components/Gallery.js"
+				"templ",
+				"templates/itrend-filters-frontend.php"
 			],
 			[
-				"dumm",
-				"data/dummy.json"
+				"cust",
+				"itrend-custom-fields.php"
 			],
 			[
-				"gall",
-				"components/Gallery.js"
+				"custo",
+				"itrend-custom-fields.php"
 			],
 			[
-				"marzipani",
-				"components/MarzipanoView.js"
-			],
-			[
-				"ho",
-				"components/Hotspot.js"
-			],
-			[
-				"pa",
-				"package.json"
-			],
-			[
-				"text",
-				"components/TextWindow.js"
-			],
-			[
-				"bran",
-				"components/MarzipanoBrand.js"
-			],
-			[
-				"modal",
-				"components/ModalContainer.js"
-			],
-			[
-				"figu",
-				"components/Figure.js"
-			],
-			[
-				"css",
-				"static/base.css"
-			],
-			[
-				"poi",
-				"components/Point.js"
-			],
-			[
-				"hot",
-				"components/Hotspot.js"
-			],
-			[
-				"config",
-				"config.js"
-			],
-			[
-				"homeitem",
-				"resources/assets/styles/components/_homeitem.scss"
-			],
-			[
-				"front-",
-				"app/controllers/front-page.php"
-			],
-			[
-				"hea",
-				"resources/views/partials/head.blade.php"
-			],
-			[
-				"homeite",
-				"resources/assets/styles/components/_homeitem.scss"
-			],
-			[
-				"content-hom",
-				"resources/views/partials/content-homeitem.blade.php"
+				"js",
+				"js/itrend-filters-scripts.js"
 			]
 		],
 		"width": 0.0
@@ -1654,32 +458,12 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "troll",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"troll",
-				"~/Documentos/code/js/trolley_nextjs/trolley.sublime-project"
-			],
-			[
 				"",
-				"~/Documentos/code/projects/aura_austral.sublime-project"
-			],
-			[
-				"gon",
-				"~/Documentos/code/php/ga/public/wp-content/themes/gonzalo-aguirre/gonzaloaguirre.sublime-project"
-			],
-			[
-				"aura",
-				"~/Documentos/code/projects/aura_austral.sublime-project"
-			],
-			[
-				"tro",
-				"~/Documentos/code/js/trolley_nextjs/trolley.sublime-project"
-			],
-			[
-				"aur",
-				"~/Documentos/code/projects/aura_austral.sublime-project"
+				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1701,7 +485,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 324.0,
+	"side_bar_width": 287.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

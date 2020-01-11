@@ -1,7 +1,7 @@
 ---
 layout: comic
 title:  "Trueno Enrollado"
-date:   2017-04-08 19:15:02 -0300
+date:   2018-04-08 19:15:02 -0300
 slug: enrollado
 background: "#ffffff"
 foreground: "#333"
@@ -9,6 +9,7 @@ maxwidth: 400
 
 categories:
  - comic
+ - painting
 
 
 numberpages:

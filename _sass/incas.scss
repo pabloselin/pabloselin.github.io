@@ -1,0 +1,52 @@
+
+h1.withsub {
+	margin-bottom: 0;
+	margin-top: 36px;
+}
+
+.halfzone {
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+.videostripe {
+	width: 100%;
+	padding: 24px 0;
+	overflow: hidden;
+	background-color: #000;
+	color: white;
+	text-align: center;
+	video {
+		max-width: 600px;
+		height: auto;
+	}
+}
+
+.incasdesc {
+	margin: 24px 0;
+	padding: 24px 0;
+}
+
+.imagestripe {
+	padding: 24px 0;
+	margin: 0;
+	background-color: #000;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 100%;
+	img, video {
+		flex: 1;
+		margin: 6px;
+		max-width: 20%;
+		height: auto;
+	}
+}
+
+.captionstripe {
+	background-color: #000;
+	color: #ccc;
+	margin-bottom: 0;
+}

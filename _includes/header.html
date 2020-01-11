@@ -6,6 +6,7 @@
     </a>
     <nav class="main-nav">
         <ul>
+            <li {% if page.url == '/works.html' %} class="active" {% endif %}><a href="{{site.url}}/works.html">Works</a></li>
             <li {% if page.url == '/comics.html' %} class="active" {% endif %}><a href="{{site.url}}/comics.html">Comics</a></li>
             <li {% if page.url == '/dibujos.html' %} class="active" {% endif %}><a href="{{site.url}}/dibujos.html">Drawings</a></li>
             <li {% if page.url == '/datos.html' %} class="active" {% endif %}><a href="{{site.url}}/datos.html">data</a></li>
@@ -14,6 +15,7 @@
     <nav id="mobile-menu" class="mobile-nav">
     <a id="trigger-nav" href="#" class="mobile-trigger">&gt; menu</a>
     <ul class="hidden-nav">
+        <li {% if page.url == '/works.html' %} class="active" {% endif %}><a href="{{site.url}}/works.html">Works</a></li>
         <li {% if page.url == '/comics.html' %} class="active" {% endif %}><a href="{{site.url}}/comics.html">Comics</a></li>
         <li {% if page.url == '/Drawings.html' %} class="active" {% endif %}><a href="{{site.url}}/dibujos.html">drawings</a></li>
         <li {% if page.url == '/datos.html' %} class="active" {% endif %}><a href="{{site.url}}/datos.html">data</a></li>

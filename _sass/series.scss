@@ -1,0 +1,37 @@
+.serie {
+	.images-left {
+		width: 600px;
+		float: left;
+	}
+
+	.content-right {
+		width: 400px;
+		float: left;
+		padding: 12px;
+	}
+
+	img {
+		margin-bottom: 12px;
+	}
+
+	.wrapper-mini {
+		max-width: 700px;
+		margin: 0 auto;
+	}
+}
+
+.serie-item {
+	display: block;
+	float: left;
+	padding: 48px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #333;
+	margin: 0 12px 12px 0;
+
+	a {
+		&:hover {
+			text-decoration: none;			
+		}
+	}
+}
