@@ -1,5 +1,5 @@
 ---
-layout: serie
+layout: work
 title:  "Vermont Studio Center Paintings"
 date:   2019-06-12 19:15:02 -0300
 year: 2019

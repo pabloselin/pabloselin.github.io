@@ -20,18 +20,27 @@
 	}
 }
 
-.serie-item {
-	display: block;
-	float: left;
-	padding: 48px;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: #333;
-	margin: 0 12px 12px 0;
+.works-wrapper {
+	
+}
 
+.serie-item {
 	a {
+		display: block;
+		padding: 48px;
+		width: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: #333;
+		margin: 0 12px 12px 0;
 		&:hover {
-			text-decoration: none;			
-		}
+			text-decoration: none;
+			color: #f09c29;
+			font-weight: bold;
+			h1 {
+				font-weight: bold;
+			}
+		}	
 	}
+
 }

@@ -22,9 +22,9 @@ collections:
     output: true
     values:
       layout: drawing
- series:
+ works:
     output: true
     values:
-      layout: serie
+      layout: work
 # Build settings
 markdown: kramdown

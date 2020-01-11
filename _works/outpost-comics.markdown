@@ -1,5 +1,5 @@
 ---
-layout: serie
+layout: work
 title:  "OUTPOST Comics"
 date:   2015-06-12 19:15:02 -0300
 year: 2015

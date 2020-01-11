@@ -4,11 +4,13 @@ layout: default
 
 <h1>Works</h1>
 
-{% for serie in site.series reversed %}
-  <div class="serie-item" style="background-image: url({{ serie.thumbnail }});">
-      <a href="{{serie.url}}">
-        <span>{{serie.year}}</span>
-        <h1>{{serie.title}}</h1>
+<div class="works-wrapper">
+{% for work in site.works reversed %}
+  <div class="serie-item" style="background-image: url({{ work.thumbnail }});">
+      <a href="{{work.url}}">
+        <span>{{work.year}}</span>
+        <h1>{{work.title}}</h1>
       </a>
   </div>
 {% endfor %}
+</div>

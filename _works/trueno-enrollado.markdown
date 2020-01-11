@@ -1,5 +1,5 @@
 ---
-layout: serie
+layout: work
 title:  "Trueno Enrollado"
 date:   2018-06-12 19:15:02 -0300
 year: 2018
