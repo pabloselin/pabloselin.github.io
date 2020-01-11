@@ -19,3 +19,5 @@ images:
 A personal anthology of my comic work between 2013-2017
 
 With support from the National Funding for the Arts (FONDART)
+
+[[+] Download]({% link outpost.html %})
