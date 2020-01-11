@@ -11,6 +11,8 @@ categories:
 images:
  - "trueno_enrollado_09_full.jpg"
  - "trueno_enrollado_10_full.jpg"
+ - "te11.jpg"
+ - "te12.jpg"
 
 ---
 
