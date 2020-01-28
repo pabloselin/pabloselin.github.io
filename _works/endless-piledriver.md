@@ -25,8 +25,6 @@ images:
 fullwidth-images:
 - "endless_piledriver_wide.jpg"
 
-extratext: "Lklaskd"
-
 ---
 
 Solo exhibition at Galeria Metropolitana, Santiago, Chile <br>
