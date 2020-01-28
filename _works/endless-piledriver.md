@@ -25,7 +25,9 @@ images:
 fullwidth-images:
 - "endless_piledriver_wide.jpg"
 
+extratext: "Lklaskd"
+
 ---
 
-Solo exhibition at Galeria Metropolitana, Santiago, Chile
+Solo exhibition at Galeria Metropolitana, Santiago, Chile <br>
 Paintings, small drawings, 3d painted object, comics workshop and the launch of the comics magazine Instituciones Violentas #1
