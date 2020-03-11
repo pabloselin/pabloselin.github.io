@@ -76,7 +76,7 @@
 			"file": "_layouts/ii.html",
 			"settings":
 			{
-				"buffer_size": 3595,
+				"buffer_size": 3829,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -281,7 +281,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -382,21 +382,21 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3595,
+						"buffer_size": 3829,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3586,
-								3586
+								2067,
+								2067
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -859,9 +859,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "autom",
+		"last_filter": "prm",
 		"selected_items":
 		[
+			[
+				"prm",
+				"~/Documents/WebDev/local_sites/bitacora/app/public/wp-content/themes/prompt/prompt.sublime-project"
+			],
 			[
 				"autom",
 				"~/Documents/WebDev/local_sites/automark/app/public/wp-content/themes/automark/automark.sublime-project"
