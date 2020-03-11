@@ -21,6 +21,9 @@ images:
 fullwidth-images:
 - "bzzz_full.jpg"
 
+thumbnail:
+- "vsc_thumb.jpg"
+
 ---
 
 Work made at my one month residency at Vermont Studio Center, Jhonson, VT, USA.
