@@ -1,0 +1,43 @@
+
+.muestras-trueno {
+	display: flex;
+	margin: 24px 0;
+	align-items: center;
+	
+	a {
+		margin: 0 6px;
+	}
+
+	img {
+		width: 100%;
+	}
+}
+
+.video-trolley {
+	text-align: center;
+	video {
+		margin: 24px auto;
+	}
+}
+
+p.desc {
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 24px;
+	padding-bottom: 24px;
+	border-bottom: 1px dashed red;
+}
+
+span.help,
+a.help {
+	font-style: italic;
+	color: red;
+}
+
+ul.list-skills {
+	margin-left: 24px;
+	li {
+		list-style: disc;	
+	}
+	
+}
