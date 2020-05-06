@@ -27,7 +27,7 @@ $on-laptop: 800px; // Use media queries like this: // @include media-query($on-p
 @import "base", "grid", "animate", "header", "panel", "comics-list", "drawing",
     "single-comic", "outpost", "incas", "series", "muestra";
 body.home {
-    background: url(../site_imgs/endless_view.jpg) no-repeat center center fixed;
+    background: url(../dib_imgs/cryojelly_bathtub_9.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     min-height: 100%;
