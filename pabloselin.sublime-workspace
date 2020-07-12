@@ -117,18 +117,10 @@
 			}
 		},
 		{
-			"file": "_sass/series.scss",
-			"settings":
-			{
-				"buffer_size": 550,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "css/main.scss",
 			"settings":
 			{
-				"buffer_size": 1428,
+				"buffer_size": 1434,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -163,7 +155,7 @@
 			"file": "/home/pabloselin/Documents/WebDev/host_transfer/databases.txt",
 			"settings":
 			{
-				"buffer_size": 211,
+				"buffer_size": 561,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -183,6 +175,32 @@
 				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_works/endless-piledriver.md",
+			"settings":
+			{
+				"buffer_size": 954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_works/cryo-jelly.markdown",
+			"settings":
+			{
+				"buffer_size": 607,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -196,6 +214,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"rena",
+				"Rename File"
+			],
 			[
 				"ren",
 				"Rename File"
@@ -286,9 +308,9 @@
 	"expanded_folders":
 	[
 		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_sass",
 		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/css"
+		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/css",
+		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/dib_imgs"
 	],
 	"file_history":
 	[
@@ -391,7 +413,7 @@
 	"groups":
 	[
 		{
-			"selected": 15,
+			"selected": 19,
 			"sheets":
 			[
 				{
@@ -419,7 +441,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -449,7 +471,7 @@
 						"translation.y": 149.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -479,7 +501,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
@@ -507,7 +529,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -534,7 +556,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -557,13 +579,14 @@
 						"settings":
 						{
 							"auto_name": "---",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 1096.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -593,53 +616,24 @@
 						"translation.y": 3073.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
 					"buffer": 7,
-					"file": "_sass/series.scss",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 550,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "css/main.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1428,
+						"buffer_size": 1434,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1058,
-								1058
+								790,
+								790
 							]
 						],
 						"settings":
@@ -649,14 +643,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 102.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "_sass/muestra.scss",
 					"semi_transient": false,
 					"settings":
@@ -675,17 +669,18 @@
 						"settings":
 						{
 							"auto_name": "",
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 9,
 					"file": "works.html",
 					"semi_transient": false,
 					"settings":
@@ -709,11 +704,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "_data/videogames.yml",
 					"semi_transient": false,
 					"settings":
@@ -737,7 +732,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -766,24 +761,24 @@
 						"translation.y": 905.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 11,
 					"file": "/home/pabloselin/Documents/WebDev/host_transfer/databases.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 211,
+						"buffer_size": 561,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								188,
-								188
+								0,
+								0
 							]
 						],
 						"settings":
@@ -795,11 +790,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 12,
 					"file": "_layouts/incas.html",
 					"semi_transient": false,
 					"settings":
@@ -825,11 +820,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "_sass/muestra.scss",
 					"semi_transient": false,
 					"settings":
@@ -841,8 +836,8 @@
 						"selection":
 						[
 							[
-								109,
-								109
+								294,
+								294
 							]
 						],
 						"settings":
@@ -854,11 +849,11 @@
 						"translation.y": 6.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 13,
 					"semi_transient": false,
 					"settings":
 					{
@@ -881,15 +876,9 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 7,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 5,
 					"file": "muestras_2020.html",
@@ -903,8 +892,8 @@
 						"selection":
 						[
 							[
-								3414,
-								3414
+								3373,
+								3373
 							]
 						],
 						"settings":
@@ -913,10 +902,94 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 922.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "_works/endless-piledriver.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								954,
+								954
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "_works/cryo-jelly.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -939,18 +1012,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -977,6 +1043,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"inde",
+				"index.html"
+			],
 			[
 				"mue",
 				"muestras_2020.html"
@@ -1279,9 +1349,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "itre",
+		"last_filter": "c80",
 		"selected_items":
 		[
+			[
+				"c80",
+				"~/Documents/WebDev/local_sites/c80/app/public/wp-content/themes/c80-template/c80.sublime-project"
+			],
 			[
 				"itre",
 				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend.sublime-project"
@@ -1325,7 +1399,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 445.0,
 	"status_bar_visible": true,
 	"template_settings":
