@@ -1,0 +1,10 @@
+---
+layout: zoomed
+title:  "Trueno enrollado 12"
+date:   2019-05-05 19:15:02 -0300
+slug: trueno-enrollado-12
+idzoom: te12
+
+---
+
+...

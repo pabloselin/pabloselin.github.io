@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Large. Zoomed.</h1>
+    <p>Serie Trueno Enrollado</p>
+  </header>
+
+	{% for zoom in site.zooms %}
+
+		<div class="zoomitem">
+			<a href="{{zoom.url}}/">{{ zoom.title }}</a>
+		</div>
+
+	{% endfor %}
+
+</article>

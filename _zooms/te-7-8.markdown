@@ -1,0 +1,10 @@
+---
+layout: zoomed
+title:  "Trueno enrollado 7-8"
+date:   2019-05-01 19:15:02 -0300
+slug: trueno-enrollado-7-8
+idzoom: te7-8
+
+---
+
+...

@@ -1,0 +1,17 @@
+---
+layout: full
+---
+<article class="drawing-zoomed" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="openseadragon zoomdrawing" id="{{ page.idzoom }}" style="width: 100%; height: 90vh;"></div>
+  <script type="text/javascript">
+    var viewer = OpenSeadragon({
+      id: "{{ page.idzoom }}",
+      prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/images/",
+      tileSources: "{{site.baseurl}}/zooms/{{page.idzoom}}.dzi",
+      showNavigator: true,
+      navigatorPosition: "BOTTOM_RIGHT"
+    });
+  </script>
+</div>
+
+</article>

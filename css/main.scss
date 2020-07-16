@@ -25,7 +25,7 @@ $on-laptop: 800px; // Use media queries like this: // @include media-query($on-p
     }
 } // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "grid", "animate", "header", "panel", "comics-list", "drawing",
-    "single-comic", "outpost", "incas", "series", "muestra";
+    "single-comic", "outpost", "incas", "series", "muestra", "zooms";
 body.home {
     background:white;
     background-size: cover;

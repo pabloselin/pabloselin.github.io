@@ -15,16 +15,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pablosel.in" # the base hostname & protocol for your site
 collections:
  comics:
+  output: true
+  values:
+   layout: comic
+ drawings:
    output: true
    values:
-    layout: comic
- drawings:
-    output: true
-    values:
-      layout: drawing
+    layout: drawing
  works:
-    output: true
-    values:
-      layout: work
+  output: true
+  values:
+   layout: work
+ zooms:
+  output: true
+  values: 
+   layout: zoom
 # Build settings
 markdown: kramdown
