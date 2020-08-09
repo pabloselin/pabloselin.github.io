@@ -8,14 +8,11 @@ header.site-header {
         max-width: $content-width - ($spacing-unit * 2);
         margin: 0 auto 0 auto;
         overflow: hidden;
-        padding: 12px $spacing-unit;
     }
-    .site-logo {
-        float: left;
-        margin-right: 6px;
-    }
+    
 
     h1 {
+        margin-top: 48px;
         font-size: 18px;
         //text-transform:lowercase;
         line-height: 40px;
@@ -23,8 +20,6 @@ header.site-header {
         letter-spacing: 2px;
         color: #333;
         font-weight: 900;
-        float: left;
-        margin: 0;
         a {
             color: #333;
         }

@@ -3,94 +3,10 @@
 	{
 		"selected_items":
 		[
-			[
-				"append",
-				"append-zone-filter"
-			],
-			[
-				"login_ur",
-				"wp_login_url\tWP Function"
-			],
-			[
-				"justify-content",
-				"justify-content-end \tBootstrap 4 Class"
-			],
-			[
-				"is_ob",
-				"is_object_in_taxonomy\tWP Function"
-			],
-			[
-				"is",
-				"is_array"
-			],
-			[
-				"get_taxonom",
-				"get_taxonomy_labels\tWP Function"
-			],
-			[
-				"is_sing",
-				"is_singular\tWP Function"
-			],
-			[
-				"queyr",
-				"queryUrl"
-			],
-			[
-				"query",
-				"query_vars\tWP Filter Name"
-			],
-			[
-				"struct",
-				"structured_search"
-			],
-			[
-				"actor",
-				"actor_name"
-			],
-			[
-				"fiels",
-				"fields_data"
-			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 49,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/base.scss",
-			"settings":
-			{
-				"buffer_size": 3891,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/home.html",
-			"settings":
-			{
-				"buffer_size": 380,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.scss",
-			"settings":
-			{
-				"buffer_size": 1368,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -103,86 +19,6 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"terminusdevi",
-				"Terminus: Open Default Shell in Tab (View)"
-			],
-			[
-				"comm",
-				"Toggle Comment"
-			],
-			[
-				"rena",
-				"Rename File"
-			],
-			[
-				"ren",
-				"Rename File"
-			],
-			[
-				"rien",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"packin",
-				"Package Control: Install Package"
-			],
-			[
-				"renam",
-				"Rename File"
-			],
-			[
-				"save proj",
-				"Project: Save As"
-			],
-			[
-				"synsass",
-				"Set Syntax: SCSS"
-			],
-			[
-				"prefere",
-				"Preferences: Settings"
-			],
-			[
-				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"reinde",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"wr",
-				"Emmet: Wrap With Abbreviation"
-			],
-			[
-				"wrap",
-				"Emmet: Wrap With Abbreviation"
-			],
-			[
-				"ww",
-				"Word Wrap: Toggle"
-			],
-			[
-				"install package",
-				"Package Control: Install Package"
-			],
-			[
-				"intall pag",
-				"Package Control: Install Package"
-			],
-			[
-				"install packa",
-				"Package Control: Install Package"
-			],
-			[
-				"inspac",
-				"Install Package Control"
-			]
 		],
 		"width": 0.0
 	},
@@ -204,89 +40,20 @@
 	},
 	"expanded_folders":
 	[
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_sass",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/css"
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src"
 	],
 	"file_history":
 	[
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/cryo-jelly.markdown",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/index.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/muestras_2020.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_sass/muestra.scss",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_layouts/incas.html",
-		"/home/pabloselin/Documents/WebDev/host_transfer/databases.txt",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/vermont-studio-center.markdown",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_layouts/ii.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_data/expos.yml",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_data/soloexpos.yaml",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_sass/base.scss",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/css/main.scss",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/works.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_data/videogames.yml",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_includes/head.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_includes/header.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_site/muestras_2020.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/ii.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/trueno-enrollado.markdown",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_layouts/home.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_sass/series.scss",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_sass/incas.scss",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/datos.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_data/comicfairs.yaml",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/comics.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_config.yml",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_layouts/work.html",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/instituciones-violentas-1.markdown",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/outpost-comics.markdown",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/.gitignore",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/trueno-enrollado-2019.markdown",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_works/endless-piledriver.md",
-		"/home/pabloselin/Documents/WebDev/projects/pabloselin/src/_series/instituciones-violentas-1.markdown",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/gulpfile.js",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/package.json",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/js/itrend-filters-scripts.js",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-public.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-filters.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/network.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-filters-frontend.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-custom-fields.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/scss/custom-materialize.scss",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/scss/_custom-variables.scss",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/components/_typography.scss",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/scss/itrend-actores.scss",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/materialize.scss",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-ficha-actor.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/components/_color-variables.scss",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/itrend-actores.css",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/css/itrend-filters-styles.css",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-template-functions.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-main.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-header.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/readme.md",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/dploy.yaml",
-		"/home/pabloselin/.gitignore",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/themes/itrend_plain/dploy.yaml",
-		"/tmp/fz3temp-2/wp-config.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-config.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/reunion_06012020.todo",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-visualization.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/templates/itrend-footer.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend-custom-posts.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/themes/itrend_plain/footer.php",
-		"/home/pabloselin/Documents/WebDev/local_sites/itrend/app/public/wp-content/themes/itrend_plain/header.php"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 0.0
 	},
 	"find_in_files":
 	{
-		"height": 101.0,
+		"height": 0.0,
 		"where_history":
 		[
-			"*.scss"
 		]
 	},
 	"find_state":
@@ -294,13 +61,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"alt=\"",
-			"Trueno enrollado 1",
-			"/dib_imgs/",
-			"img/",
-			"/img/",
-			"body.home",
-			"serie"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -318,137 +78,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 49,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								45,
-								45
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_sass/base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3891,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3794,
-								3794
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3713.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_layouts/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								73,
-								73
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/main.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1368,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								859,
-								859
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -481,7 +122,7 @@
 	"project": "pabloselin.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 0.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -490,361 +131,17 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"mains",
-				"css/main.scss"
-			],
-			[
-				"hom",
-				"_layouts/home.html"
-			],
-			[
-				"head",
-				"_includes/header.html"
-			],
-			[
-				"he",
-				"_includes/head.html"
-			],
-			[
-				"inde",
-				"index.html"
-			],
-			[
-				"mue",
-				"muestras_2020.html"
-			],
-			[
-				"mues",
-				"_sass/muestra.scss"
-			],
-			[
-				"inc",
-				"_layouts/incas.html"
-			],
-			[
-				"solo",
-				"_data/soloexpos.yaml"
-			],
-			[
-				"ex",
-				"_data/expos.yml"
-			],
-			[
-				"hea",
-				"_includes/header.html"
-			],
-			[
-				"work",
-				"works.html"
-			],
-			[
-				"main",
-				"css/main.scss"
-			],
-			[
-				"base",
-				"_sass/_base.scss"
-			],
-			[
-				"endle",
-				"_works/endless-piledriver.md"
-			],
-			[
-				"HOM",
-				"_layouts/home.html"
-			],
-			[
-				"endl",
-				"_works/endless-piledriver.md"
-			],
-			[
-				"wor",
-				"_layouts/work.html"
-			],
-			[
-				"dat",
-				"datos.html"
-			],
-			[
-				"true",
-				"_works/trueno-enrollado-2019.markdown"
-			],
-			[
-				"truen",
-				"_works/trueno-enrollado.markdown"
-			],
-			[
-				"gitign",
-				".gitignore"
-			],
-			[
-				"out",
-				"_works/outpost-comics.markdown"
-			],
-			[
-				"comics",
-				"comics.html"
-			],
-			[
-				"comicfa",
-				"_data/comicfairs.yaml"
-			],
-			[
-				"inca",
-				"_sass/incas.scss"
-			],
-			[
-				"serie",
-				"_sass/series.scss"
-			],
-			[
-				"works",
-				"works.html"
-			],
-			[
-				"vio",
-				"_works/instituciones-violentas-1.markdown"
-			],
-			[
-				"conf",
-				"_config.yml"
-			],
-			[
-				"vide",
-				"_data/videogames.yml"
-			],
-			[
-				"expo",
-				"_data/expos.yml"
-			],
-			[
-				"heade",
-				"_includes/header.html"
-			],
-			[
-				"seri",
-				"series.html"
-			],
-			[
-				"itrend-ron",
-				"itrend_custom_content/templates/itrend-filters-frontend.php"
-			],
-			[
-				"filte",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"publi",
-				"itrend_custom_content/itrend-public.php"
-			],
-			[
-				"custom-va",
-				"itrend_custom_content/css/scss/_custom-variables.scss"
-			],
-			[
-				"custommat",
-				"itrend_custom_content/css/scss/custom-materialize.scss"
-			],
-			[
-				"var",
-				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/node_modules/materialize-css/sass/components/_variables.scss"
-			],
-			[
-				"pub",
-				"itrend_custom_content/itrend-public.php"
-			],
-			[
-				"filt",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"cuso",
-				"itrend_custom_content/itrend-custom-fields.php"
-			],
-			[
-				"",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"net",
-				"itrend_custom_content/templates/network.php"
-			],
-			[
-				"itr",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"itrendfron",
-				"itrend_custom_content/templates/itrend-filters-frontend.php"
-			],
-			[
-				"itrend-fil",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"cu",
-				"itrend_custom_content/itrend-custom-fields.php"
-			],
-			[
-				"ficha",
-				"itrend_custom_content/templates/itrend-ficha-actor.php"
-			],
-			[
-				"custom",
-				"itrend_custom_content/itrend-custom-fields.php"
-			],
-			[
-				"itrend-filte",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"itrend-fronte",
-				"itrend_custom_content/templates/itrend-filters-frontend.php"
-			],
-			[
-				"publ",
-				"itrend_custom_content/itrend-public.php"
-			],
-			[
-				"itrend-filt",
-				"itrend_custom_content/js/itrend-filters-scripts.js"
-			],
-			[
-				"itrend-fi",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"wp",
-				"/tmp/fz3temp-2/wp-config.php"
-			],
-			[
-				"dplo",
-				"itrend_custom_content/dploy.yaml"
-			],
-			[
-				"dpl",
-				"itrend_plain/dploy.yaml"
-			],
-			[
-				"pu",
-				"itrend_custom_content/itrend-public.php"
-			],
-			[
-				"temp ",
-				"itrend_custom_content/itrend-template-functions.php"
-			],
-			[
-				"ma",
-				"itrend_custom_content/itrend-main.php"
-			],
-			[
-				"filter",
-				"itrend_custom_content/css/itrend-filters-styles.css"
-			],
-			[
-				"itrend",
-				"itrend_custom_content/templates/itrend-filters.php"
-			],
-			[
-				"fron",
-				"itrend_custom_content/templates/itrend-filters-frontend.php"
-			],
-			[
-				"netw",
-				"itrend_custom_content/templates/network.php"
-			],
-			[
-				"debug",
-				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log"
-			],
-			[
-				"deb",
-				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log"
-			],
-			[
-				"acto",
-				"itrend_custom_content/templates/itrend-ficha-actor.php"
-			],
-			[
-				"debu",
-				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/debug.log"
-			],
-			[
-				"itrendfilt",
-				"itrend_custom_content/templates/itrend-filters-frontend.php"
-			],
-			[
-				"itrendcss",
-				"itrend_custom_content/css/itrend-filters-styles.css"
-			],
-			[
-				"templa",
-				"itrend_custom_content/itrend-template-functions.php"
-			],
-			[
-				"actor",
-				"itrend_custom_content/templates/itrend-ficha-actor.php"
-			],
-			[
-				"templ",
-				"templates/itrend-filters-frontend.php"
-			],
-			[
-				"cust",
-				"itrend-custom-fields.php"
-			],
-			[
-				"custo",
-				"itrend-custom-fields.php"
-			],
-			[
-				"js",
-				"js/itrend-filters-scripts.js"
-			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 500.0,
-		"last_filter": "galm",
+		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"galm",
-				"~/Documents/WebDev/local_sites/galmet/app/public/wp-content/themes/galmet_mix/galmet2014.sublime-project"
-			],
-			[
-				"c80",
-				"~/Documents/WebDev/local_sites/c80/app/public/wp-content/themes/c80-template/c80.sublime-project"
-			],
-			[
-				"itre",
-				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend.sublime-project"
-			],
-			[
-				"prom",
-				"~/Documents/WebDev/local_sites/bitacora/app/public/wp-content/themes/prompt/prompt.sublime-project"
-			],
-			[
-				"prm",
-				"~/Documents/WebDev/local_sites/bitacora/app/public/wp-content/themes/prompt/prompt.sublime-project"
-			],
-			[
-				"autom",
-				"~/Documents/WebDev/local_sites/automark/app/public/wp-content/themes/automark/automark.sublime-project"
-			],
-			[
-				"bit",
-				"~/Documents/WebDev/local_sites/bitacora/app/public/wp-content/themes/prompt/prompt.sublime-project"
-			],
-			[
-				"",
-				"~/Documents/WebDev/local_sites/itrend/app/public/wp-content/plugins/itrend_custom_content/itrend.sublime-project"
-			]
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"select_symbol":
 	{
@@ -858,16 +155,12 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"xdebug":
-		{
-			"hide_conflict": false
-		}
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 445.0,
+	"side_bar_width": 150.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
