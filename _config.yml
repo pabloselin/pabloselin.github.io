@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pablo Selín - comics, dibujos
+title: XX_XX
 email: pabloselin@gmail.com
 instagram: donhilo
 description: > # this means to ignore newlines until "baseurl:"
-  Cómics y dibujos de Pablo Selín Carrasco Armijo
+  ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pablosel.in" # the base hostname & protocol for your site
 collections:
