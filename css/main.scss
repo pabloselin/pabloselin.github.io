@@ -27,8 +27,9 @@ $on-laptop: 800px; // Use media queries like this: // @include media-query($on-p
 @import "base", "grid", "header", "panel", "comics-list", "drawing",
     "single-comic", "outpost", "incas", "series", "muestra", "zooms";
 body.home {
-    background:white;
+    background:url('../site_imgs/renderanemones_008.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100%;
     min-height: 100%;
 }

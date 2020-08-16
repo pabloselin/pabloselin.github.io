@@ -7,6 +7,97 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_header.scss",
+			"settings":
+			{
+				"buffer_size": 3134,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/base.scss",
+			"settings":
+			{
+				"buffer_size": 3891,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 278 files for \"raleway\"\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_includes/head.html:\n   14    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   15    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   16:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   17    \n   18    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_sass/outpost.scss:\n   21        border-radius: 12px;\n   22        margin-bottom: 6px;\n   23:       font-family: 'Raleway', sans-serif;\n   24        font-size: 14px;\n   25        font-weight: 600;\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/bigdrawings.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/datos.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/dibujos.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/incas.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/index.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/muestras_2020.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/outpost.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/zoomed.html:\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   19    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   20:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   21    \n   22    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/althaus.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/codexmini.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/darkjhon.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/dogprotocol.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/five-fingered-fluff.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/footnote.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/glglgl.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/mandog.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/megacrap.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/mortal-kombat-moon.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/oggo.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/plpl.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/rodrigosblackout.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/sailingstones.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/trueno-enrollado.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/txexex.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/una-version-diferente-de-todo.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/visit1.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/wheelclo.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/you-will-lose-your-treasures-100ktimes.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/comics/zzxyyzxec.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/css/main.css:\n  805  body.outpost .page-content { padding: 48px 0 24px 0; }\n  806  \n  807: body.outpost .page-content a.downlink { display: inline-block; padding: 12px 12px; color: white; background-color: #D30065; border-radius: 12px; margin-bottom: 6px; font-family: 'Raleway', sans-serif; font-size: 14px; font-weight: 600; }\n  808  \n  809  body.outpost .page-content a.downlink:hover { background-color: #b40056; text-decoration: none; }\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/css/main.css.map:\n   28  \t\t\"\\n\\n.drawing {\\n    figure {\\n        img {\\n            border:1px solid #f0f0f0;\\n        }\\n        h1 {\\n            margin-top:24px;\\n            margin-bottom:0;\\n        }\\n    }\\n}\\n\\n.drawing-list-item img {\\n    border:1px solid #ccc;\\n}\\n\\n@media screen and (max-width:$on-palm) {\\n    .drawing-list-item {\\n        text-align:center;\\n        margin-bottom:24px;\\n    }\\n}\",\n   29  \t\t\"article.comic {\\n\\ttext-align:center;\\n}\\n\\n.comic-images {\\n\\tmax-width:900px;\\n\\tmargin:0 auto;\\n}\",\n   30: \t\t\"body.outpost {\\n\\ttext-align: center;\\n  background-color: #814078;\\n  color: white;\\n  background-image: url(../site_imgs/outpost/outpost_background_b.jpg);\\n  background-repeat: no-repeat;\\n  background-size: auto;\\n\\n  @media screen and (max-width: 768px) {\\n    background-size: auto;\\n  }\\n\\n  .page-content {\\n    padding: 48px 0 24px 0;\\n    \\n    a.downlink {\\n      display: inline-block;\\n      padding: 12px 12px;\\n      color: white;\\n      background-color: #D30065;\\n      border-radius: 12px;\\n      margin-bottom: 6px;\\n      font-family: 'Raleway', sans-serif;\\n      font-size: 14px;\\n      font-weight: 600;\\n      &:hover {\\n        background-color: darken(#D30065, 6%);\\n        text-decoration: none;\\n      }\\n    }\\n\\n    p.infop {\\n      text-shadow: 0 1px 1px #333;\\n      font-size: 13px;\\n      margin-bottom: 6px;\\n    }\\n  }\\n\\n  .lib-wrap-top {\\n    width: 315px;\\n    margin: 0 auto;\\n  }\\n\\n  \\n  .lib-wrap {\\n    perspective: 1800px;\\n    position: relative;\\n    border-radius: 5px;\\n  }\\n\\n  .lib-front, .lib-back, .lib-left, .lib-right {\\n    position: absolute;\\n  }\\n\\n  .lib-front {\\n    transition: all ease-in 0.5s;\\n    transform-style: preserve-3d;\\n    transform-origin: 0% 50%;\\n    transform: rotate3d(0,1,0,35deg);\\n    z-index: 10;\\n    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.1);\\n\\n    &:after {\\n      content: '';\\n      position: absolute;\\n      top: 0;\\n      left: 3px;\\n      bottom: 0;\\n      width: 3px;\\n      background: rgba(0,0,0,0.06);\\n      box-shadow: 1px 0 3px rgba(255, 255, 255, 0.1);\\n      border-radius: 0 6px 6px 0;\\n    }\\n  }\\n\\n  .lib-back {\\n    transition: all ease-in 0.5s;\\n    transform-style: preserve-3d;\\n    transform-origin: 0% 50%;\\n    transform: rotate3d(0,1,0,35deg);\\n    z-index: 6;\\n    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.1);\\n\\n    &:after {\\n      content: '';\\n      position: absolute;\\n      top: 0;\\n      left: 3px;\\n      bottom: 0;\\n      width: 3px;\\n      background: rgba(0,0,0,0.06);\\n      box-shadow: 1px 0 3px rgba(255, 255, 255, 0.1);\\n      border-radius: 0 6px 6px 0;\\n    }\\n  }\\n\\n  .lib-left {\\n    background-repeat: no-repeat;\\n    background-size: cover;\\n    left: -9px;\\n    top: -1px;\\n    transform: rotate3d(0,1,0,-50deg);\\n    transform-style: preserve-3d;\\n    transform-origin: 0% 50%;\\n    img {\\n      border-radius: 3px 0 0 3px;\\n    }\\n  }\\n\\n  @media screen and (max-width: 768px) {\\n    .page-content {\\n      a {\\n        padding: 6px;\\n        font-size: 14px;\\n      }\\n    }\\n  }\\n}\\n\\ndiv.infozone {\\n  background-color: rgba(0,0,0, 0.65);\\n  border-radius: 5px;\\n  padding: 6px;\\n}\\n\\n.bk-list {\\n  list-style: none;\\n  position: relative;\\n}\\n\\n.bk-list li {\\n  position: relative;\\n  width: 320px;\\n  float: left;\\n  z-index: 1;\\n  margin: 0px 50px 40px 0;\\n  -webkit-perspective: 1800px;\\n  perspective: 1800px;\\n}\\n\\n.bk-list li:last-child {\\n  margin-right: 0;\\n}\\n\\n.bk-info {\\n  position: relative;\\n  margin-top: 420px;\\n}\\n\\n.bk-info button {\\n  background: #333;\\n  border: none;\\n  color: #fff;\\n  display: inline-block;\\n  padding: 12px 15px;\\n  font-weight: normal;\\n  font-size: 14px;\\n  cursor: pointer;\\n  margin: 4px 0 16px 0;\\n  border-radius: 12px;\\n\\n  &:hover {\\n    background-color: #000;\\n  }\\n}\\n\\n.bk-info button.bk-active,\\n.bk-info button:active {\\n  box-shadow: \\n    0 1px 0 rgba(255, 255, 255, 0.8), \\n    inset 0 -1px 1px rgba(0,0,0,0.2);\\n}\\n\\n.no-touch .bk-info button:hover,\\n.bk-info button.bk-active {\\n  background: #d0544e;\\n}\\n\\n.bk-list li .bk-book {\\n  position: absolute;\\n  width: 100%;\\n  height: 400px;\\n  -webkit-transform-style: preserve-3d;\\n  transform-style: preserve-3d;\\n  -webkit-transition: -webkit-transform .5s;\\n  transition: transform .5s;\\n}\\n\\n.bk-list li .bk-book.bk-bookdefault:hover {\\n  -webkit-transform: rotate3d(0,1,0,35deg);\\n  transform: rotate3d(0,1,0,35deg);\\n}\\n\\n.bk-list li .bk-book > div,\\n.bk-list li .bk-front > div {\\n  display: block;\\n  position: absolute;\\n}\\n\\n.bk-list li .bk-front {\\n  -webkit-transform-style: preserve-3d;\\n  transform-style: preserve-3d;\\n  -webkit-transform-origin: 0% 50%;\\n  transform-origin: 0% 50%;\\n  -webkit-transition: -webkit-transform .5s;\\n  transition: transform .5s;\\n  -webkit-transform: translate3d(0,0,12px);\\n  transform: translate3d(0,0,12px);\\n  z-index: 10;\\n}\\n\\n.bk-list li .bk-front > div {\\n  z-index: 1;\\n  -webkit-backface-visibility: hidden;\\n  backface-visibility: hidden;\\n  -webkit-transform-style: preserve-3d;\\n  transform-style: preserve-3d;\\n}\\n\\n.bk-list li .bk-page {\\n  -webkit-transform: translate3d(0,0,11px);\\n  transform: translate3d(0,0,11px);\\n  display: none;\\n  width: 295px;\\n  height: 390px;\\n  top: 5px;\\n  -webkit-backface-visibility: hidden;\\n  backface-visibility: hidden;\\n  z-index: 9;\\n}\\n\\n.bk-list li .bk-front,\\n.bk-list li .bk-back,\\n.bk-list li .bk-front > div {\\n  width: 315px;\\n  height: 400px;\\n}\\n\\n.bk-list li .bk-left,\\n.bk-list li .bk-right {\\n  width: 20px;\\n  left: -10px;\\n}\\n\\n.bk-list li .bk-top,\\n.bk-list li .bk-bottom {\\n  width: 295px;\\n  height: 40px;\\n  top: -15px;\\n  -webkit-backface-visibility: hidden;\\n  backface-visibility: hidden;\\n}\\n\\n.bk-list li .bk-back {\\n  -webkit-transform: rotate3d(0,1,0,-180deg) translate3d(0,0,9px);\\n  transform: rotate3d(0,1,0,-180deg) translate3d(0,0,9px);\\n  box-shadow: 10px 10px 30px rgba(0,0,0,0.3);\\n  border-radius: 3px 0 0 3px;\\n}\\n\\n.bk-list li .bk-cover-back {\\n  background-color: #000;\\n  -webkit-transform: rotate3d(0,1,0,-179deg);\\n  transform: rotate3d(0,1,0,-179deg);\\n}\\n\\n.bk-list li .bk-right {\\n  height: 390px;\\n  top: 5px;\\n  -webkit-transform: rotate3d(0,1,0,90deg) translate3d(0,0,295px);\\n  -moz-transform: rotate3d(0,1,0,90deg) translate3d(0,0,295px);\\n  transform: rotate3d(0,1,0,90deg) translate3d(0,0,295px);\\n  -webkit-backface-visibility: hidden;\\n  backface-visibility: hidden;\\n}\\n\\n.bk-list li .bk-left {\\n  height: 400px;\\n  -webkit-transform: rotate3d(0,1,0,-90deg);\\n  transform: rotate3d(0,1,0,-90deg);\\n}\\n\\n.bk-list li .bk-top {\\n  -webkit-transform: rotate3d(1,0,0,90deg);\\n  transform: rotate3d(1,0,0,90deg);\\n}\\n\\n.bk-list li .bk-bottom {\\n  -webkit-transform: rotate3d(1,0,0,-90deg) translate3d(0,0,390px);\\n  transform: rotate3d(1,0,0,-90deg) translate3d(0,0,390px);\\n}\\n\\n/* Transform classes */\\n\\n.bk-list li .bk-viewinside .bk-front {\\n  -webkit-transform: translate3d(0,0,20px) rotate3d(0,1,0,-160deg);\\n  transform: translate3d(0,0,20px) rotate3d(0,1,0,-160deg);\\n}\\n\\n.bk-list li .bk-book.bk-viewinside {\\n  -webkit-transform: translate3d(0,0,150px) rotate3d(0,1,0,0deg);\\n  transform: translate3d(0,0,150px) rotate3d(0,1,0,0deg);\\n}\\n\\n.bk-list li .bk-book.bk-viewback {\\n  -webkit-transform: translate3d(0,0,0px) rotate3d(0,1,0,180deg);\\n  transform: translate3d(0,0,0px) rotate3d(0,1,0,180deg);\\n}\\n\\n/* Main colors and content */\\n\\n.bk-list li .bk-page,\\n.bk-list li .bk-right,\\n.bk-list li .bk-top,\\n.bk-list li .bk-bottom {\\n  background-color: #fff;\\n}\\n\\n.bk-list li .bk-front > div {\\n  border-radius: 0 3px 3px 0;\\n  box-shadow: \\n    inset 4px 0 10px rgba(0, 0, 0, 0.1);\\n}\\n\\n.bk-list li .bk-front:after {\\n  content: '';\\n  position: absolute;\\n  top: 1px;\\n  bottom: 1px;\\n  left: -1px;\\n  width: 1px;\\n}\\n\\n.bk-list li .bk-cover:after,\\n.bk-list li .bk-back:after {\\n  content: '';\\n  position: absolute;\\n  top: 0;\\n  left: 10px;\\n  bottom: 0;\\n  width: 3px;\\n  background: rgba(0,0,0,0.06);\\n  box-shadow: 1px 0 3px rgba(255, 255, 255, 0.1);\\n}\\n\\n.bk-list li .bk-back:after {\\n  left: auto;\\n  right: 10px;\\n}\\n\\n\\n/* Individual style & artwork */\\n\\n/* Book 1 */\\n.book-1 .bk-front > div,\\n.book-1 .bk-back,\\n.book-1 .bk-left,\\n.book-1 .bk-front:after {\\n  background-color: #ff924a;\\n}\\n\\n.book-1 .bk-cover {\\n  background-image: url(../site_imgs/outpost/outpost_portada.jpg); \\n  background-repeat: no-repeat;\\n  background-size: cover;\\n}\\n\\n.book-1 .bk-left {\\n  background-image: url(../site_imgs/outpost/outpost_lomo.png); \\n  background-repeat: no-repeat;\\n  background-size: cover;\\n}\\n\\n.book-1 .bk-back {\\n  background-image: url(../site_imgs/outpost/outpost_contratapa.jpg); \\n  background-repeat: no-repeat;\\n  background-size: cover;\\n}\\n\\n\\n.book-1 .bk-cover h2 span:first-child {\\n  display: block;\\n}\\n\\n\\n\\n\\n/* Fallbacks */\\n\\n.no-csstransforms3d .bk-list li .bk-book > div,\\n.no-csstransforms3d .bk-list li .bk-book .bk-cover-back {\\n  display: none;\\n}\\n\\n.no-csstransforms3d .bk-list li .bk-book > div.bk-front {\\n  display: block;\\n}\\n\\n.no-csstransforms3d .bk-info button,\\n.no-js .bk-info button {\\n  display: none;\\n}\\n\\n/* Banner */\\n\\n.banner_desktop {\\n  margin-bottom: 24px;\\n  max-width: 800px;\\n  height: auto;\\n}\\n\\n.banner_mobile {\\n  display:none;\\n}\\n\\n@media screen and (max-width: 768px) {\\n  .banner_desktop {\\n    display: none;\\n  }\\n\\n  .banner_mobile {\\n    display: block;\\n    margin-bottom: 24px;\\n    max-width: 100%;\\n    height: auto;\\n  }\\n}\",\n   31  \t\t\"\\nh1.withsub {\\n\\tmargin-bottom: 0;\\n\\tmargin-top: 36px;\\n}\\n\\n.halfzone {\\n\\twidth: 50%;\\n\\tfloat: left;\\n\\ttext-align: center;\\n}\\n\\n.videostripe {\\n\\twidth: 100%;\\n\\tpadding: 24px 0;\\n\\toverflow: hidden;\\n\\tbackground-color: #000;\\n\\tcolor: white;\\n\\ttext-align: center;\\n\\tvideo {\\n\\t\\tmax-width: 600px;\\n\\t\\theight: auto;\\n\\t}\\n}\\n\\n.incasdesc {\\n\\tmargin: 24px 0;\\n\\tpadding: 24px 0;\\n}\\n\\n.imagestripe {\\n\\tpadding: 24px 0;\\n\\tmargin: 0;\\n\\tbackground-color: #000;\\n\\tdisplay: flex;\\n\\tflex-flow: row wrap;\\n\\tjustify-content: space-around;\\n\\talign-items: center;\\n\\tmin-height: 100%;\\n\\timg, video {\\n\\t\\tflex: 1;\\n\\t\\tmargin: 6px;\\n\\t\\tmax-width: 20%;\\n\\t\\theight: auto;\\n\\t}\\n}\\n\\n.captionstripe {\\n\\tbackground-color: #000;\\n\\tcolor: #ccc;\\n\\tmargin-bottom: 0;\\n}\",\n   32  \t\t\".serie {\\n\\t.images-left {\\n\\t\\twidth: 600px;\\n\\t\\tfloat: left;\\n\\t}\\n\\n\\t.content-right {\\n\\t\\twidth: 400px;\\n\\t\\tfloat: left;\\n\\t\\tpadding: 12px;\\n\\t}\\n\\n\\timg {\\n\\t\\tmargin-bottom: 12px;\\n\\t}\\n\\n\\t.wrapper-mini {\\n\\t\\tmax-width: 700px;\\n\\t\\tmargin: 0 auto;\\n\\t}\\n}\\n\\n.works-wrapper {\\n\\t\\n}\\n\\n.serie-item {\\n\\ta {\\n\\t\\tdisplay: block;\\n\\t\\tpadding: 48px;\\n\\t\\twidth: 100%;\\n\\t\\tbackground-repeat: no-repeat;\\n\\t\\tbackground-size: cover;\\n\\t\\tbackground-color: #333;\\n\\t\\tmargin: 0 12px 12px 0;\\n\\t\\t&:hover {\\n\\t\\t\\ttext-decoration: none;\\n\\t\\t\\tcolor: #f09c29;\\n\\t\\t\\tfont-weight: bold;\\n\\t\\t\\th1 {\\n\\t\\t\\t\\tfont-weight: bold;\\n\\t\\t\\t}\\n\\t\\t}\\t\\n\\t}\\n\\n}\",\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/abstract_01.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/abstract_02.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/bighand.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/bzzz.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/early2006.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/kelvinstory.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/kitk.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/klak.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/trueno_enrollado_1.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/trueno_enrollado_2.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/trueno_enrollado_3.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/trueno_enrollado_4.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/trueno_enrollado_5.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/drawings/trueno_enrollado_6.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/cryo-jelly.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/endless-piledriver.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/incas-of-emergency.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/instituciones-violentas-1.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/outpost-comics.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/trueno-enrollado-2019.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/trueno-enrollado.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/works/vermont-studio-center.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/zooms/te-10.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/zooms/te-11.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/zooms/te-12.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/zooms/te-7-8.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n/home/pablo/Documents/WebDev/projects/pabloselin/src/_site/zooms/te-9.html:\n   17    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/solid.js\" integrity=\"sha384-YmNA3b9AQuWW8KZguYfqJa/YhKNTwGVD5pQc1cN0ZAVRudFFtR17HR7rooNcVXe4\" crossorigin=\"anonymous\"></script>\n   18    <script defer src=\"https://use.fontawesome.com/releases/v5.2.0/js/fontawesome.js\" integrity=\"sha384-QcnrgQuRmocjIBY6ByWMmDvUg3HO4MSdVjY7ynJwZfvTDhVPPQOUI9TRzc6/7ZO1\" crossorigin=\"anonymous\"></script>\n   19:   <link href=\"https://fonts.googleapis.com/css?family=Raleway:300\" rel=\"stylesheet\">\n   20    \n   21    <script src=\"https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js\"></script>\n\n62 matches across 62 files\n",
+			"settings":
+			{
+				"buffer_size": 54235,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1449,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 861,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CNAME",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 1355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/home.html",
+			"settings":
+			{
+				"buffer_size": 271,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSass\n----\n\n  Sass 2.0\n  ======================\n  \n  Thank you for installing Sass for Sublime Text.\n  \n  2.0 supports things like flex-box syntax, custom properties, function snippets\n  and more for both Sass and SCSS.\n  It is now also in line with the scope naming guidelines for Sublime Text 3.0,\n  highlighting should be very similar to CSS and LESS.\n  \n  If something doesn't work for you let us know at:\n  https://github.com/braver/SublimeSass\n  \n  1.x is still available as a different package: \"Syntax Highlighting for Sass\":\n  https://github.com/P233/Syntax-highlighting-for-Sass\n\n\nJekyll\n------\n\n  ***************************************************************************************************\n         \n                ÛÛÛ           ÛÛÛÛÛ                 ÛÛÛÛ  ÛÛÛÛ      ÛÛÛÛÛÛÛÛ        ÛÛÛÛÛ   \n               °°°           °°ÛÛÛ                 °°ÛÛÛ °°ÛÛÛ     ÛÛÛ°°°°ÛÛÛ     ÛÛÛ°°°ÛÛÛ \n               ÛÛÛÛÛ  ÛÛÛÛÛÛ  °ÛÛÛ ÛÛÛÛÛ ÛÛÛÛÛ ÛÛÛÛ °ÛÛÛ  °ÛÛÛ    °°°    °ÛÛÛ    ÛÛÛ   °°ÛÛÛ\n              °°ÛÛÛ  ÛÛÛ°°ÛÛÛ °ÛÛÛ°°ÛÛÛ °°ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ       ÛÛÛÛÛÛ°    °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛÛÛÛÛ  °ÛÛÛÛÛÛ°   °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ      °°°°°°ÛÛÛ   °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛ°°°   °ÛÛÛ°°ÛÛÛ  °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ     ÛÛÛ   °ÛÛÛ   °°ÛÛÛ   ÛÛÛ \n               °ÛÛÛ °°ÛÛÛÛÛÛ  ÛÛÛÛ ÛÛÛÛÛ °°ÛÛÛÛÛÛÛ  ÛÛÛÛÛ ÛÛÛÛÛ   °°ÛÛÛÛÛÛÛÛ  ÛÛ °°°ÛÛÛÛÛ°  \n               °ÛÛÛ  °°°°°°  °°°° °°°°°   °°°°°ÛÛÛ °°°°° °°°°°     °°°°°°°°  °°    °°°°°°   \n           ÛÛÛ °ÛÛÛ                       ÛÛÛ °ÛÛÛ                                          \n          °°ÛÛÛÛÛÛ                       °°ÛÛÛÛÛÛ                                           \n           °°°°°°                         °°°°°°                                            \n  \n  \n                                  Thanks for installing sublime-jekyll.\n                                     We hope you like what you see.\n                              \n                              http://23maverick23.github.io/sublime-jekyll/\n                            sublime-jekyll is licensed under the MIT license.\n         \n  ***************************************************************************************************\n  \n  \n  This package should help maintaining Jekyll sites and posts easier by providing access to new post\n  and draft shortcuts, key Liquid template tags and filters, as well as common filter completions and\n  YAML front-matter templates for standardizing your posts.\n  \n  \n  After installing this package, make sure you configure your User settings file. The most important\n  piece of this is to set your `posts_path` and `drafts_path` locations. This can also be set on a\n  per-project basis later if you have multiple Jekyll sites you wish to manage.\n  \n  \n  If you have any questions or issues, please visit the homepage where you can watch a short video and\n  get quick access to RTFD documentation and Github to log issues.\n",
+			"settings":
+			{
+				"buffer_size": 2965,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -19,6 +110,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"comm",
+				"Snippet: comment"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"instalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
 		],
 		"width": 0.0
 	},
@@ -40,20 +147,26 @@
 	},
 	"expanded_folders":
 	[
-		"/home/pablo/Documents/WebDev/projects/pabloselin/src"
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src",
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src/css",
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src/img",
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src/site_imgs",
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src/videos"
 	],
 	"file_history":
 	[
+		"/home/pablo/Documents/WebDev/projects/pabloselin/src/_sass/base.scss"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 98.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -61,6 +174,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"raleway"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -78,14 +192,573 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1199,
+								1199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 849.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54235,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										582,
+										589
+									],
+									[
+										912,
+										919
+									],
+									[
+										1546,
+										1553
+									],
+									[
+										2254,
+										2261
+									],
+									[
+										2961,
+										2968
+									],
+									[
+										3670,
+										3677
+									],
+									[
+										4377,
+										4384
+									],
+									[
+										5084,
+										5091
+									],
+									[
+										5799,
+										5806
+									],
+									[
+										6508,
+										6515
+									],
+									[
+										7215,
+										7222
+									],
+									[
+										7923,
+										7930
+									],
+									[
+										8639,
+										8646
+									],
+									[
+										9357,
+										9364
+									],
+									[
+										10074,
+										10081
+									],
+									[
+										10794,
+										10801
+									],
+									[
+										11522,
+										11529
+									],
+									[
+										12239,
+										12246
+									],
+									[
+										12954,
+										12961
+									],
+									[
+										13669,
+										13676
+									],
+									[
+										14386,
+										14393
+									],
+									[
+										15113,
+										15120
+									],
+									[
+										15826,
+										15833
+									],
+									[
+										16539,
+										16546
+									],
+									[
+										17264,
+										17271
+									],
+									[
+										17986,
+										17993
+									],
+									[
+										18711,
+										18718
+									],
+									[
+										19426,
+										19433
+									],
+									[
+										20164,
+										20171
+									],
+									[
+										20879,
+										20886
+									],
+									[
+										21596,
+										21603
+									],
+									[
+										22343,
+										22350
+									],
+									[
+										23061,
+										23068
+									],
+									[
+										23553,
+										23560
+									],
+									[
+										24879,
+										24886
+									],
+									[
+										35272,
+										35279
+									],
+									[
+										35994,
+										36001
+									],
+									[
+										36712,
+										36719
+									],
+									[
+										37427,
+										37434
+									],
+									[
+										38147,
+										38154
+									],
+									[
+										38869,
+										38876
+									],
+									[
+										39584,
+										39591
+									],
+									[
+										40299,
+										40306
+									],
+									[
+										41028,
+										41035
+									],
+									[
+										41757,
+										41764
+									],
+									[
+										42486,
+										42493
+									],
+									[
+										43215,
+										43222
+									],
+									[
+										43944,
+										43951
+									],
+									[
+										44673,
+										44680
+									],
+									[
+										45391,
+										45398
+									],
+									[
+										46117,
+										46124
+									],
+									[
+										46843,
+										46850
+									],
+									[
+										47576,
+										47583
+									],
+									[
+										48298,
+										48305
+									],
+									[
+										49027,
+										49034
+									],
+									[
+										49751,
+										49758
+									],
+									[
+										50480,
+										50487
+									],
+									[
+										51193,
+										51200
+									],
+									[
+										51906,
+										51913
+									],
+									[
+										52619,
+										52626
+									],
+									[
+										53333,
+										53340
+									],
+									[
+										54045,
+										54052
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1226,
+								1226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								615,
+								615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "CNAME",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								930,
+								930
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_layouts/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2965,
+								2965
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -122,7 +795,7 @@
 	"project": "pabloselin.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -131,17 +804,41 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"head",
+				"_sass/_header.scss"
+			],
+			[
+				"head.",
+				"_includes/head.html"
+			],
+			[
+				"bas",
+				"_sass/base.scss"
+			],
+			[
+				"base",
+				"_sass/base.scss"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 500.0,
+		"last_filter": "lu",
 		"selected_items":
 		[
+			[
+				"lu",
+				"~/Local Sites/luciaegana/app/public/wp-content/themes/ler/luciaegana.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -160,7 +857,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 403.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
